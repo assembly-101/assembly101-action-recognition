@@ -1,0 +1,1380 @@
+pick up screw
+rotate partial toy
+put down screw
+pick up screwdriver
+put down screwdriver
+inspect partial toy
+put down partial toy
+pick up partial toy
+inspect diagram
+push finished toy
+clap hand
+pick up cabin
+put down cabin
+pull finished toy
+unscrew chassis with screwdriver
+position cabin
+screw chassis with screwdriver
+position screw on chassis
+tilt up partial toy
+pick up finished toy
+remove cabin
+pass screw to other hand
+put down chassis
+put down finished toy
+inspect cabin
+tilt down partial toy
+pass partial toy to other hand
+pick up chassis
+pick up first wheel
+inspect chassis
+pick up second wheel
+put down first wheel
+put down second wheel
+unscrew first wheel with screwdriver
+pick up third wheel
+position second wheel
+position first wheel
+unscrew second wheel with screwdriver
+remove screw from chassis
+pick up fourth wheel
+unscrew third wheel with screwdriver
+pick up interior
+position interior
+rotate finished toy
+put down third wheel
+position third wheel
+push partial toy
+position screw on first wheel
+unscrew fourth wheel with screwdriver
+put down fourth wheel
+remove second wheel
+position fourth wheel
+remove first wheel
+screw first wheel with screwdriver
+remove third wheel
+remove fourth wheel
+screw second wheel with screwdriver
+screw third wheel with screwdriver
+inspect finished toy
+put down interior
+screw fourth wheel with screwdriver
+pull partial toy
+pick up nut
+pick up roof
+position roof
+put down roof
+attempt to position screw
+remove interior
+pass screwdriver to other hand
+attempt to position cabin
+attempt to pick up screw
+rotate chassis
+remove roof
+spin wheel
+position nut
+position screw on second wheel
+unscrew roof with screwdriver
+position screw on fourth wheel
+tilt up roof
+put down nut
+position screw on third wheel
+pick up rear base
+pick up front bumper
+position arm
+pick up arm
+put down rear base
+rotate cabin
+unscrew cabin with screwdriver
+push screw
+position rear base
+tilt up dump bed
+position screw on roof
+pass cabin to other hand
+attempt to remove screw
+tilt down roof
+position front bumper
+inspect interior
+remove screw from first wheel
+pick up rear body
+put down arm
+remove screw from second wheel
+put down front bumper
+tilt down dump bed
+position screw on cabin
+unscrew interior with screwdriver
+remove nut
+put down rear body
+remove screw from third wheel
+screw cabin with screwdriver
+remove screw from roof
+remove rear base
+tilt up excavator arm
+unscrew front bumper with screwdriver
+unscrew rear base with screwdriver
+screw interior with screwdriver
+attempt to remove cabin
+screw first wheel with hand
+position screw on front bumper
+remove front bumper
+remove screw from fourth wheel
+position screw on interior
+position rear body
+screw roof with screwdriver
+pass wheel to other hand
+remove arm
+inspect rear body
+attempt to pick up screwdriver
+tilt down excavator arm
+pick up rear bumper
+remove screw from cabin
+remove screw
+inspect rear base
+screw front bumper with screwdriver
+pick up screwdriver bit
+inspect wheel
+attempt to position interior
+remove screw from interior
+attempt to position rear base
+screw second wheel with hand
+remove rear body
+put down screwdriver bit
+position screw on arm
+screw roof with hand
+position arm connector
+shake partial toy
+unscrew first wheel with hand
+screw third wheel with hand
+pick up boom
+screw rear base with screwdriver
+inspect roof
+rotate wheel
+unscrew arm with screwdriver
+pick up front body
+position rear bumper
+rotate rear base
+attempt to unscrew wheel
+inspect dump bed
+unscrew second wheel with hand
+screw fourth wheel with hand
+pick up arm connector
+inspect arm
+unscrew fourth wheel with hand
+put down boom
+put down rear bumper
+remove screw from front bumper
+position front body
+position boom
+put down front body
+pass chassis to other hand
+remove arm connector
+screw front bumper with hand
+unscrew third wheel with hand
+unscrew transport cabin with screwdriver
+pick up bucket
+screw arm with screwdriver
+remove screw from arm
+put down bucket
+put down dump bed
+push wheel
+screw chassis with hand
+remove boom
+pick up dump bed
+unscrew track with screwdriver
+rotate rear body
+pass roof to other hand
+position screw on track
+tilt up crane arm
+rotate interior
+unscrew rear body with screwdriver
+position step
+remove front body
+put down arm connector
+inspect excavator arm
+remove step
+tilt up ladder basket
+attempt to position rear body
+attempt to unscrew chassis
+remove screw from rear base
+attempt to position rear bumper
+put down track
+unscrew turntable top with screwdriver
+tilt down ladder basket
+screw track with screwdriver
+screw arm with hand
+rotate turntable base
+inspect turntable base
+position screw on rear base
+rotate crane arm
+screw rear body with screwdriver
+pass interior to other hand
+remove rear bumper
+unscrew dump bed with screwdriver
+pick up track
+unscrew chassis with hand
+attempt to position arm
+tilt down bucket
+position dump bed
+pick up cylinder
+rotate excavator arm
+tilt up jackhammer arm
+unscrew rear bumper with screwdriver
+unscrew turntable base with screwdriver
+pick up step
+inspect front body
+pick up body
+screw rear roof with screwdriver
+screw transport cabin with screwdriver
+attempt to position wheel
+unscrew boom with screwdriver
+unscrew bucket with screwdriver
+unscrew arm connector with screwdriver
+tilt up bucket
+put down step
+tilt down crane arm
+rotate arm
+put down turntable base
+attempt to remove interior
+position track
+attempt to remove rear base
+inspect water tank
+put down body
+attempt to put down screw
+remove chassis
+position screw on arm connector
+attempt to pick up wheel
+position screw on rear roof
+position screw on dump bed
+position screw on rear body
+unscrew roof with hand
+attempt to position arm connector
+unscrew cabin with hand
+screw turntable base with screwdriver
+screw cabin with hand
+remove dump bed
+remove screw from boom
+rotate dump bed
+inspect transport cabin
+attempt to remove wheel
+attempt to position roof
+position light
+position screw on boom
+unscrew track with hand
+remove screw from rear body
+rotate roof
+remove track
+pick up turntable base
+tilt down jackhammer arm
+pick up rear door
+position bucket
+inspect screw
+unscrew rear roof with screwdriver
+position cylinder
+position screw on bucket
+screw turntable top with screwdriver
+position screw on turntable top
+remove screw from arm connector
+inspect crane arm
+remove light
+pick up water tank
+tilt up bulldozer arm
+pick up excavator arm
+remove screw from track
+put down turntable top
+position body
+tilt down bulldozer arm
+push screwdriver
+tilt up arm
+position excavator arm
+pass rear base to other hand
+pick up light
+rotate front body
+screw bucket with screwdriver
+pick up chassis part
+position strap
+unscrew front body with screwdriver
+put down rear roof
+attempt to screw wheel
+screw dump bed with screwdriver
+pick up turntable top
+screw arm connector with screwdriver
+unscrew arm with hand
+remove turntable base
+position screw on turntable base
+pick up water tank part
+put down water tank part
+remove screw from rear roof
+pick up rear roof
+rotate transport cabin
+unscrew front bumper with hand
+pass arm to other hand
+tilt up boom
+inspect boom
+position screw on rear bumper
+attempt to remove body
+remove rear roof
+position rear door
+position side door
+pick up side door
+tilt down arm
+screw track with hand
+pass finished toy to other hand
+put down water tank
+position water tank
+remove body
+attempt to position boom
+remove screw from screwdriver
+position rear roof
+put down cylinder
+put down chassis part
+position turntable base
+screw front body with screwdriver
+attempt to put down partial toy
+inspect front bumper
+inspect bucket
+attempt to put down screwdriver
+position screw on transport cabin
+put down excavator arm
+remove bucket
+pick up roller
+inspect ladder basket
+position water tank part
+screw boom with screwdriver
+screw rear bumper with screwdriver
+rotate turntable top
+put down roller
+remove water tank part
+attempt to position dump bed
+remove screw from bucket
+put down light
+screw nut with hand
+attempt to screw chassis
+remove screw from dump bed
+rotate water tank
+attempt to position water tank
+position chassis
+pick up crane arm
+remove turntable top
+position screw on screwdriver
+tilt down boom
+pick up sound module
+inspect body
+put down side door
+attempt to pick up cabin
+rotate ladder basket
+screw interior with hand
+spin mixer
+inspect arm connector
+rotate roller
+pick up engine cover
+position grill
+remove screw from turntable base
+tilt down roller arm
+pick up container
+tilt down lid
+pull screw
+position transport cabin
+rotate rear bumper
+attempt to position front bumper
+pass front bumper to other hand
+tilt up finished toy
+remove excavator arm
+put down crane arm
+tilt up roller arm
+position turntable top
+inspect water tank part
+put down container
+put down rear door
+pick up transport cabin
+attempt to position turntable base
+remove side door
+tilt up lid
+remove screw from turntable top
+pass rear body to other hand
+position screw on front body
+remove water tank
+attempt to remove chassis
+inspect rear bumper
+pick up grill
+position screw on grill
+pass excavator arm to other hand
+pass bucket to other hand
+screw boom with hand
+rotate container
+inspect bulldozer arm
+remove transport cabin
+attempt to position front body
+position screw on excavator arm
+screw excavator arm with screwdriver
+inspect turntable top
+position sound module
+tilt up clamp arm
+put down transport cabin
+pass dump bed to other hand
+unscrew push frame with hand
+position chassis part
+pick up strap
+attempt to put down cabin
+inspect mixer
+unscrew mixer stand with screwdriver
+inspect clamp arm
+put down engine cover
+pick up wrench
+pass boom to other hand
+position roller
+put down mixer stand
+tilt down clamp arm
+remove screw from front body
+unscrew bulldozer arm with screwdriver
+put down grill
+remove screw from transport cabin
+unscrew roller with screwdriver
+screw push frame with screwdriver
+unscrew excavator arm with screwdriver
+position crane arm
+rotate bucket
+pass arm connector to other hand
+remove screw from rear bumper
+screw cylinder with screwdriver
+screw bucket with hand
+tilt down basket
+attempt to pick up partial toy
+unscrew interior with hand
+inspect container
+remove grill
+unscrew push frame with screwdriver
+pick up roller arm
+pass turntable base to other hand
+remove roller
+remove ladder basket
+pick up mixer stand
+inspect mixer stand
+unscrew first wheel with screwdriver bit
+remove screw from bulldozer arm
+remove rear door
+unscrew engine cover with screwdriver
+pick up rocker panel
+screw rear bumper with hand
+unscrew grill with screwdriver
+position screw on push frame
+pick up push frame
+put down push frame
+inspect roller
+remove chassis part
+remove crane arm
+attempt to remove roof
+screw strap with screwdriver
+unscrew front body with hand
+put down ladder basket
+position screw on mixer stand
+position mixer stand
+put down sound module
+position engine cover
+unscrew third wheel with screwdriver bit
+unscrew boom with hand
+inspect side door
+position back seat
+inspect roller arm
+put down roller arm
+remove cylinder
+pick up bulldozer arm
+rotate bulldozer arm
+attempt to remove arm
+push cabin
+position mixer
+unscrew water tank part with screwdriver
+pick up drill
+unscrew fourth wheel with screwdriver bit
+screw arm connector with hand
+inspect rear door
+put down rocker panel
+remove rocker panel
+attempt to unscrew interior
+attempt to pick up interior
+screw mixer stand with screwdriver
+screw bulldozer arm with screwdriver
+screw front body with hand
+put down strap
+pass front body to other hand
+unscrew strap with screwdriver
+pick up ladder basket
+pick up mixer
+remove screw from mixer stand
+remove mixer stand
+unscrew container with screwdriver
+unscrew second wheel with screwdriver bit
+pass transport cabin to other hand
+rotate arm connector
+attempt to position bucket
+remove screw from push frame
+pass crane arm to other hand
+spin roller
+screw container with screwdriver
+rotate body
+screw first wheel with screwdriver bit
+screw dump bed with hand
+position rocker panel
+attempt to position nut
+put down jackhammer arm
+pick up jackhammer arm
+rotate roller arm
+screw push frame with hand
+screw strap with hand
+remove push frame
+position screw on cylinder
+position push frame
+push arm
+pass roller arm to other hand
+remove roller arm
+position ladder basket
+unscrew water tank with screwdriver
+attempt to position transport cabin
+put down wrench
+pass rear bumper to other hand
+attempt to put down wheel
+shake cabin
+attempt to position excavator arm
+attempt to unscrew roof
+inspect light
+position jackhammer arm
+pull wheel
+put down bulldozer arm
+position roller arm
+remove strap
+tilt up basket
+tilt up container
+position container
+put down drill
+pass body to other hand
+inspect rear roof
+attempt to remove front bumper
+inspect screwdriver
+unscrew rear base with hand
+screw grill with screwdriver
+position screw on body
+inspect jackhammer arm
+inspect track
+rotate boom
+attempt to unscrew rear base
+position figurine
+pick up figurine
+unscrew arm connector with hand
+remove bulldozer arm
+position screw on crane arm
+position ladder
+screw water tank with screwdriver
+pass water tank to other hand
+put down mixer
+pass water tank part to other hand
+remove clamp arm
+remove engine cover
+pass screwdriver bit to other hand
+screw third wheel with screwdriver bit
+remove sound module
+screw fourth wheel with screwdriver bit
+unscrew dump bed with hand
+attempt to remove rear bumper
+put down fifth wheel
+attempt to position side door
+put down container part
+attempt to remove rear body
+attempt to pick up roof
+position screw on water tank part
+inspect step
+position bulldozer arm
+push chassis
+attempt to pick up front bumper
+remove mixer
+put down clamp arm
+rotate step
+position screw on engine cover
+screw rear roof with hand
+rotate rear roof
+screw engine cover with screwdriver
+attempt to remove bucket
+unscrew rear bumper with hand
+attempt to screw interior
+attempt to unscrew rear body
+attempt to pick up rear bumper
+pick up ladder
+pick up back seat
+remove container
+tilt up blade
+screw roller with screwdriver
+attempt to remove boom
+shake roller
+pass bulldozer arm to other hand
+position screw on bulldozer arm
+position screw on water tank
+pick up clamp arm
+attempt to pick up chassis
+remove fifth wheel
+pick up container part
+put down lid
+position screw on side door
+pick up diagram
+unscrew body with screwdriver
+screw body with screwdriver
+tilt up hook
+position cabin window
+pass ladder basket to other hand
+rotate screwdriver
+unscrew basket with screwdriver
+position screw on container
+position clamp arm
+inspect screwdriver bit
+pass nut to other hand
+unscrew rear roof with hand
+unscrew spoiler with screwdriver
+pick up spoiler
+attempt to unscrew cabin
+tilt down clamp
+tilt up clamp
+remove screw from grill
+unscrew cylinder with screwdriver
+unscrew fifth wheel with screwdriver
+remove back seat
+pick up fifth wheel
+inspect chassis part
+pick up lid
+unscrew lid with screwdriver
+put down diagram
+screw water tank part with screwdriver
+attempt to position cylinder
+position cabin back
+pass turntable top to other hand
+tilt down hook
+screw crane arm with screwdriver
+pick up cabin window
+position jackhammer
+remove jackhammer arm
+unscrew ladder basket with screwdriver
+rotate clamp arm
+screw second wheel with screwdriver bit
+unscrew rear body with hand
+remove screw from excavator arm
+attempt to position chassis
+attempt to remove front body
+position fifth wheel
+rotate chassis part
+screw grill with hand
+tilt down blade
+position screw on clamp arm
+unscrew crane arm with screwdriver
+pick up hook
+put down cabin window
+remove cabin window
+attempt to pick up nut
+put down basket
+remove basket
+inspect drill
+pass rear roof to other hand
+rotate rear door
+screw spoiler with screwdriver
+pull ladder basket
+put down ladder
+position dashboard
+tilt up body
+position screw on lid
+remove screw from lid
+position screw on blade
+screw blade with screwdriver
+put down blade
+rotate track
+unscrew blade with screwdriver
+pass roller to other hand
+position screw on roller
+put down hook
+position hook
+tilt down jackhammer
+pick up jackhammer
+attempt to remove light
+unscrew tilter with screwdriver
+remove screw from water tank part
+pass container to other hand
+position spare wheel
+position spoiler
+attempt to remove turntable top
+rotate front bumper
+attempt to position step
+push nut
+push ladder basket
+push front bumper
+attempt to position rear roof
+put down back seat
+pick up blade
+attempt to position track
+screw ladder basket with screwdriver
+tilt down rear door
+pick up mixer part
+screw excavator arm with hand
+remove figurine
+remove hook
+position basket
+position screw on mixer
+unscrew mixer with screwdriver
+remove screw from container
+screw engine cover with hand
+attempt to remove rear roof
+attempt to remove transport cabin
+pass rear door to other hand
+put down spoiler
+attempt to pick up finished toy
+inspect ladder
+pull cabin
+rotate side door
+screw fifth wheel with screwdriver
+unscrew side door with screwdriver
+attempt to pick up boom
+tilt up transport cabin
+remove screw from body
+position connector
+remove ladder
+attempt to screw arm
+screw rear base with hand
+put down mixer part
+put down figurine
+remove screw from crane arm
+screw bulldozer arm with hand
+attempt to pick up rear base
+pull arm
+tilt up jackhammer
+position screw on jackhammer
+unscrew jackhammer arm with screwdriver
+tilt up ladder
+remove screw from basket
+attempt to position ladder
+pick up basket
+position screw on ladder basket
+put down fire extinguisher
+remove fire extinguisher
+pick up fire extinguisher
+pick up tilter
+remove tilter
+put down tilter
+remove screw from roller
+inspect sound module
+unscrew nut with hand
+pick up spare wheel
+position screw on spare wheel
+attempt to position rear door
+position screw on rocker panel
+attempt to remove excavator arm
+attempt to unscrew arm
+attempt to remove water tank part
+push roof
+remove screw from cylinder
+attempt to unscrew rear roof
+remove lid
+remove sixth wheel
+position rim
+unscrew bucket with hand
+screw jackhammer arm with screwdriver
+position screw on strap
+pick up connector
+inspect clamp
+tilt up rear door
+unscrew strap with hand
+attempt to position engine cover
+pick up cabin back
+remove screw from strap
+put down jackhammer
+tilt down ladder
+unscrew fire extinguisher with screwdriver
+position fire extinguisher
+screw tilter with screwdriver
+screw mixer with screwdriver
+attempt to remove mixer
+pick up clamp
+put down clamp
+attempt to unscrew arm connector
+unscrew bulldozer arm with hand
+remove spoiler
+screw rocker panel with screwdriver
+attempt to put down arm
+rotate water tank part
+position screw on spoiler
+attempt to screw cabin
+put down dashboard
+pass side door to other hand
+position lid
+pick up sixth wheel
+position sixth wheel
+put down sixth wheel
+tilt up chassis
+attempt to position bulldozer arm
+pass push frame to other hand
+screw roller with hand
+attempt to position body
+attempt to remove crane arm
+screw clamp arm with hand
+screw cylinder with hand
+pass step to other hand
+attempt to unscrew rear bumper
+attempt to position crane arm
+unscrew hook with screwdriver
+attempt to pick up rear body
+inspect strap
+remove jackhammer
+pass jackhammer arm to other hand
+remove screw from ladder basket
+attempt to remove ladder
+screw basket with screwdriver
+position screw on fire extinguisher
+rotate fire extinguisher
+position tilter
+unscrew tilter with hand
+attempt to position water tank part
+screw front base with screwdriver
+position front base
+unscrew front base with screwdriver
+pick up front base
+unscrew chassis with screwdriver bit
+unscrew rear roof with screwdriver bit
+remove spare wheel
+remove screw from spare wheel
+screw spare wheel with hand
+pull chassis
+remove screw from engine cover
+inspect nut
+attempt to put down arm connector
+push rear base
+remove dashboard
+pick up dashboard
+position screw on fifth wheel
+rotate mixer
+position container part
+screw sixth wheel with screwdriver
+unscrew sixth wheel with screwdriver
+screw fire extinguisher with screwdriver
+attempt to pick up turntable base
+rotate jackhammer arm
+position blade
+pull screwdriver
+attempt to screw front bumper
+remove screw from water tank
+pass cylinder to other hand
+unscrew rear body with screwdriver bit
+unscrew excavator arm with hand
+attempt to position roller arm
+screw rear body with hand
+position screw on basket
+screw ladder with screwdriver
+unscrew mixer stand with hand
+push diagram
+rotate screw
+put down spare wheel
+unscrew engine cover with hand
+unscrew front bumper with screwdriver bit
+pick up engine
+position engine
+attempt to unscrew front bumper
+screw spare wheel with screwdriver
+remove screw from mixer
+attempt to position mixer
+attempt to remove dump bed
+screw lid with screwdriver
+screw side door with screwdriver
+unscrew side door with hand
+position screw on jackhammer arm
+remove blade
+remove screw from blade
+screw jackhammer with screwdriver
+unscrew roller arm with screwdriver
+push interior
+remove windshield
+attempt to screw rear body
+inspect hook
+push crane arm
+screw water tank part with hand
+attempt to remove push frame
+attempt to position turntable top
+pull roof
+position screw on ladder
+attempt to remove basket
+position mixer part
+attempt to position jackhammer arm
+attempt to screw excavator arm
+put down cabin back
+unscrew track with screwdriver bit
+screw turntable top with hand
+screw crane arm with hand
+screw chassis part with screwdriver
+remove screw from jackhammer arm
+unscrew jackhammer with screwdriver
+pass ladder to other hand
+rotate basket
+inspect basket
+remove screw from fire extinguisher
+put down front base
+pass clamp arm to other hand
+remove front base
+attempt to put down chassis
+put down engine
+unscrew second wheel with wrench
+attempt to pick up screwdriver bit
+pull diagram
+attempt to remove spoiler
+attempt to position rocker panel
+remove screw from fifth wheel
+position screw on sixth wheel
+pick up rim
+attempt to remove turntable base
+attempt to unscrew bucket
+position screw on chassis part
+inspect lid
+shake transport cabin
+pass light to other hand
+attempt to pick up track
+position screw on roller arm
+put down windshield
+position windshield
+unscrew lid with screwdriver bit
+unscrew grill with hand
+position screw on hook
+screw clamp arm with screwdriver
+rotate ladder
+push rear body
+attempt to put down interior
+screw rear roof with screwdriver bit
+inspect engine cover
+unscrew fourth wheel with wrench
+inspect cylinder
+inspect connector
+remove cabin back
+remove screw from hook
+attempt to unscrew crane arm
+attempt to unscrew turntable top
+shake chassis
+attempt to remove arm connector
+pass strap to other hand
+unscrew basket with hand
+position screw on tilter
+remove screw from clamp arm
+unscrew clamp arm with screwdriver
+position clamp
+unscrew dump bed with screwdriver bit
+remove engine
+unscrew rocker panel with screwdriver
+remove screw from rocker panel
+screw rocker panel with hand
+push bucket
+attempt to put down roof
+push rear bumper
+remove screw from spoiler
+attempt to put down front bumper
+tilt up mixer
+attempt to position dashboard
+pass back seat to other hand
+tilt down side door
+unscrew fifth wheel with hand
+inspect grill
+inspect container part
+pass container part to other hand
+remove screw from sixth wheel
+tilt down finished toy
+pull interior
+attempt to pick up arm
+rotate push frame
+pick up windshield
+unscrew interior with screwdriver bit
+rotate mixer stand
+rotate strap
+unscrew cylinder with hand
+remove screw from ladder
+push dump bed
+screw turntable base with hand
+attempt to remove roller
+attempt to position sound module
+attempt to unscrew track
+attempt to unscrew transport cabin
+remove mixer part
+unscrew boom with screwdriver bit
+screw hook with screwdriver
+attempt to remove lid
+tilt up rear roof
+inspect push frame
+rotate cylinder
+push front body
+attempt to screw crane arm
+screw hook with hand
+attempt to screw front body
+push boom
+pass jackhammer to other hand
+shake rear body
+unscrew turntable top with hand
+attempt to position ladder basket
+pass fire extinguisher to other hand
+inspect fire extinguisher
+screw fire extinguisher with hand
+screw tilter with hand
+screw mixer stand with hand
+unscrew clamp arm with hand
+unscrew clamp with hand
+remove screw from front base
+remove screw from clamp
+rotate engine cover
+attempt to pick up rear roof
+rotate cabin window
+screw dump bed with screwdriver bit
+unscrew first wheel with wrench
+attempt to remove nut
+unscrew third wheel with wrench
+attempt to unscrew excavator arm
+attempt to unscrew mixer stand
+attempt to position light
+attempt to pick up dump bed
+inspect back seat
+attempt to pick up body
+unscrew spare wheel with screwdriver
+attempt to remove mixer stand
+screw lid with hand
+rotate light
+remove container part
+attempt to remove rim
+attempt to unscrew turntable base
+attempt to put down turntable base
+unscrew chassis part with screwdriver
+pull crane arm
+attempt to put down rear body
+attempt to pick up water tank part
+attempt to put down bucket
+remove screw from roller arm
+attempt to unscrew roller
+unscrew turntable base with hand
+attempt to screw rear base
+attempt to put down rear base
+attempt to put down water tank
+attempt to unscrew strap
+attempt to unscrew ladder basket
+inspect front base
+push engine cover
+attempt to position roller
+rotate front base
+remove connector
+put down connector
+attempt to position strap
+screw rear base with screwdriver bit
+attempt to remove hook
+screw jackhammer with hand
+unscrew jackhammer with hand
+unscrew ladder basket with hand
+unscrew fire extinguisher with hand
+tilt up fire extinguisher
+tilt down fire extinguisher
+attempt to unscrew container
+attempt to position clamp arm
+pass clamp to other hand
+unscrew engine cover with screwdriver bit
+unscrew spare wheel with screwdriver bit
+screw rear roof with drill
+rotate screwdriver bit
+screw front bumper with screwdriver bit
+unscrew engine with screwdriver
+attempt to remove engine
+rotate rocker panel
+attempt to put down boom
+screw second wheel with wrench
+screw interior with drill
+attempt to pick up excavator arm
+unscrew water tank with hand
+pull ladder
+attempt to screw basket
+tilt down mixer
+attempt to put down dump bed
+push rear roof
+position screw on nut
+screw nut with screwdriver
+rotate container part
+unscrew sixth wheel with hand
+remove screw from side door
+shake wheel
+screw side door with hand
+push excavator arm
+inspect blade
+push track
+attempt to pick up front body
+screw blade with hand
+unscrew blade with hand
+rotate lid
+tilt up cabin
+attempt to put down front body
+attempt to put down finished toy
+screw roller arm with screwdriver
+unscrew roller with hand
+attempt to remove fire equipment
+pass drill to other hand
+inspect windshield
+screw chassis with screwdriver bit
+position screw on screwdriver bit
+screw interior with screwdriver bit
+pass grill to other hand
+attempt to pick up arm connector
+screw roller arm with hand
+unscrew ladder with screwdriver
+attempt to remove side door
+push side door
+attempt to screw arm connector
+rotate battery
+position battery
+remove battery
+attempt to remove container
+attempt to position container part
+rotate connector
+screw track with screwdriver bit
+remove clamp
+screw ladder with hand
+remove screw from tilter
+screw nut with screwdriver bit
+screw boom with screwdriver bit
+unscrew boom with wrench
+screw first wheel with wrench
+attempt to pick up rocker panel
+tilt down rear roof
+pass chassis part to other hand
+screw chassis part with hand
+position screw on front base
+attempt to screw cylinder
+attempt to position push frame
+rotate dashboard
+attempt to pick up turntable top
+attempt to position basket
+attempt to screw turntable top
+unscrew clamp with screwdriver
+position screw on clamp
+unscrew front base with hand
+attempt to unscrew front body
+pass engine cover to other hand
+position screwdriver bit
+attempt to put down body
+attempt to put down engine cover
+screw engine with screwdriver
+screw third wheel with wrench
+screw fourth wheel with wrench
+attempt to screw dump bed
+screw rear body with drill
+unscrew interior with drill
+attempt to remove water tank
+attempt to unscrew water tank
+push ladder
+attempt to put down mixer
+attempt to screw rear roof
+inspect dashboard
+pull rear bumper
+pass mixer to other hand
+attempt to position chassis part
+push water tank
+pass track to other hand
+unscrew chassis part with hand
+attempt to screw track
+remove fire equipment
+pick up fire equipment
+unscrew lid with drill
+attempt to unscrew lid
+position screw on windshield
+unscrew front bumper with drill
+attempt to unscrew grill
+screw mixer with hand
+pull bulldozer arm
+attempt to position grill
+attempt to screw strap
+pull roller
+push arm connector
+attempt to remove bulldozer arm
+attempt to pick up diagram
+attempt to unscrew dump bed
+unscrew body with hand
+shake finished toy
+attempt to remove ladder basket
+attempt to put down rear bumper
+pass sound module to other hand
+push back seat
+push grill
+attempt to put down push frame
+attempt to pick up strap
+screw body with hand
+rotate spoiler
+pull jackhammer arm
+attempt to position jackhammer
+attempt to remove connector
+pass connector to other hand
+push jackhammer arm
+remove screw from jackhammer
+screw basket with hand
+pass basket to other hand
+attempt to pick up transport cabin
+inspect spoiler
+screw turntable top with screwdriver bit
+attempt to screw boom
+unscrew turntable top with screwdriver bit
+screw rear body with screwdriver bit
+rotate back seat
+shake crane arm
+attempt to screw turntable base
+attempt to screw body
+spin track
+push cylinder
+remove screw from chassis part
+remove roller part
+shake arm
+attempt to unscrew bulldozer arm
+attempt to remove step
+attempt to screw push frame
+attempt to remove jackhammer arm
+pass dashboard to other hand
+unscrew rear base with screwdriver bit
+attempt to put down roller arm
+pass cabin window to other hand
+attempt to pick up jackhammer arm
+attempt to screw ladder basket
+pass tilter to other hand
+rotate tilter
+screw front base with hand
+attempt to unscrew clamp
+screw clamp with screwdriver
+attempt to position clamp
+pull front body
+screw spare wheel with drill
+attempt to screw bucket
+remove screw from engine
+position screw on engine
+attempt to remove rocker panel
+pass spoiler to other hand
+rotate grill
+attempt to pick up grill
+unscrew arm with drill
+unscrew rear body with drill
+attempt to screw rear bumper
+shake water tank part
+push mixer stand
+pull rear door
+attempt to screw transport cabin
+unscrew transport cabin with hand
+attempt to put down dashboard
+screw fifth wheel with hand
+remove rim
+attempt to pick up fire extinguisher
+inspect cabin window
+pass blade to other hand
+attempt to remove track
+attempt to remove blade
+rotate blade
+inspect figurine
+attempt to position lid
+position fire equipment
+remove screw from windshield
+screw chassis with drill
+unscrew windshield with hand
+shake dump bed
+attempt to position mixer stand
+attempt to remove sound module
+attempt to pick up light
+attempt to remove grill
+rotate sound module
+attempt to position hook
+position screw on dashboard
+pull excavator arm
+attempt to remove battery
+tilt up rear body
+pick up battery
+put down battery
+attempt to unscrew engine cover
+attempt to pick up step
+screw ladder basket with hand
+pass front base to other hand
+attempt to position mixer part
+attempt to position front base
+screw spare wheel with screwdriver bit
+screw engine cover with screwdriver bit
+position drill
+remove screwdriver bit
+attempt to put down nut
+pass mixer part to other hand
+shake bulldozer arm
+screw excavator arm with wrench
+unscrew arm with screwdriver bit
+unscrew clamp with screwdriver bit
+screw turnplate with hand
+position turnplate
+remove turnplate
+pull hook
+attempt to position tilter
+pull rocker panel
+push lid
+unscrew lid with hand
+screw nut with wrench
+pull side door
+unscrew hook with hand
+push turntable base
+pass mixer stand to other hand
+attempt to pick up water tank
+attempt to unscrew body
+push body
+shake excavator arm
+attempt to pick up cylinder
+inspect roller part
+pick up roller part
+position roller part
+push push frame
+shake front body
+attempt to pick up bucket
+unscrew dashboard with screwdriver
+attempt to put down transport cabin
+rotate turnplate
+attempt to unscrew nut
+unscrew clamp arm with screwdriver bit
+push container
+screw windshield with screwdriver
+unscrew fifth wheel with screwdriver bit
+unscrew sixth wheel with screwdriver bit
+screw sixth wheel with screwdriver bit
+screw fifth wheel with screwdriver bit
+attempt to put down track
+attempt to position back seat
+attempt to put down rear door
+push strap
+attempt to pick up side door
+screw cabin with screwdriver bit
+rotate cabin back
+inspect tilter
+pass cabin back to other hand
+unscrew windshield with screwdriver
+attempt to position connector
+attempt to screw mixer
+pull mixer stand
+screw engine cover with drill
+unscrew spare wheel with hand
+unscrew rocker panel with hand
+unscrew clamp with drill
+screw water tank with hand
+push transport cabin
+pull blade
+push figurine
+screw lid with drill
+screw lid with screwdriver bit
+pass figurine to other hand
+shake container
+remove exhaust pipe
+put down exhaust pipe
+unscrew exhaust pipe with screwdriver
+remove screw from exhaust pipe
+pick up exhaust pipe
+screw exhaust pipe with screwdriver
+position exhaust pipe
+position screw on exhaust pipe
+screw exhaust pipe with hand
+position screw on turnplate
+remove screw from turnplate
+pick up turnplate
+unscrew turntable base with wrench
+unscrew hook with wrench
+shake jackhammer arm
+unscrew crane arm with hand
+unscrew ladder with hand
+unscrew jackhammer arm with hand
+shake roller arm
+tilt up mixer stand
+screw clamp with screwdriver bit
+unscrew container with hand
+screw container with hand
+shake mixer
