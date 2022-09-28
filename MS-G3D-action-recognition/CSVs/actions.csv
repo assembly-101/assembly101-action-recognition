@@ -1,0 +1,1381 @@
+id,action_id,verb_id,noun_id,action_cls,verb_cls,noun_cls
+0,10,18,27,clap hand,clap,hand
+1,3,0,2,pick up screwdriver,pick up,screwdriver
+2,19,0,5,pick up finished toy,pick up,finished toy
+3,182,4,26,unscrew track with screwdriver,unscrew,track
+4,281,9,26,remove screw from track,remove screw from,track
+5,2,1,1,put down screw,put down,screw
+6,261,4,26,unscrew track with hand,unscrew,track
+7,264,7,26,remove track,remove,track
+8,1,3,0,rotate partial toy,rotate,partial toy
+9,199,1,26,put down track,put down,track
+10,432,4,22,unscrew excavator arm with screwdriver,unscrew,excavator arm
+11,857,4,22,unscrew excavator arm with hand,unscrew,excavator arm
+12,380,7,22,remove excavator arm,remove,excavator arm
+13,6,1,0,put down partial toy,put down,partial toy
+14,399,10,22,pass excavator arm to other hand,pass,excavator arm
+15,229,4,24,unscrew bucket with screwdriver,unscrew,bucket
+16,347,9,24,remove screw from bucket,remove screw from,bucket
+17,88,13,1,push screw,push,screw
+18,337,7,24,remove bucket,remove,bucket
+19,176,1,24,put down bucket,put down,bucket
+20,99,1,13,put down arm,put down,arm
+21,7,0,0,pick up partial toy,pick up,partial toy
+22,5,2,0,inspect partial toy,inspect,partial toy
+23,87,4,3,unscrew cabin with screwdriver,unscrew,cabin
+24,14,4,4,unscrew chassis with screwdriver,unscrew,chassis
+25,213,4,4,unscrew chassis with hand,unscrew,chassis
+26,139,7,15,remove rear body,remove,rear body
+27,125,2,15,inspect rear body,inspect,rear body
+28,106,1,15,put down rear body,put down,rear body
+29,20,7,3,remove cabin,remove,cabin
+30,24,2,3,inspect cabin,inspect,cabin
+31,710,7,75,remove figurine,remove,figurine
+32,735,1,75,put down figurine,put down,figurine
+33,12,1,3,put down cabin,put down,cabin
+34,196,19,4,attempt to unscrew chassis,attempt to unscrew,chassis
+35,38,9,4,remove screw from chassis,remove screw from,chassis
+36,22,1,4,put down chassis,put down,chassis
+37,4,1,2,put down screwdriver,put down,screwdriver
+38,27,0,4,pick up chassis,pick up,chassis
+39,0,0,1,pick up screw,pick up,screw
+40,17,8,4,position screw on chassis,position screw on,chassis
+41,16,6,4,screw chassis with screwdriver,screw,chassis
+42,462,7,56,remove chassis part,remove,chassis part
+43,328,1,56,put down chassis part,put down,chassis part
+44,292,0,56,pick up chassis part,pick up,chassis part
+45,414,5,56,position chassis part,position,chassis part
+46,29,2,4,inspect chassis,inspect,chassis
+47,98,0,15,pick up rear body,pick up,rear body
+48,121,5,15,position rear body,position,rear body
+49,66,12,1,attempt to position screw,attempt to position,screw
+50,179,6,4,screw chassis with hand,screw,chassis
+51,11,0,3,pick up cabin,pick up,cabin
+52,15,5,3,position cabin,position,cabin
+53,559,0,75,pick up figurine,pick up,figurine
+54,558,5,75,position figurine,position,figurine
+55,84,0,13,pick up arm,pick up,arm
+56,173,0,24,pick up bucket,pick up,bucket
+57,268,5,24,position bucket,position,bucket
+58,272,8,24,position screw on bucket,position screw on,bucket
+59,438,6,24,screw bucket with hand,screw,bucket
+60,291,6,24,screw bucket with screwdriver,screw,bucket
+61,218,3,22,rotate excavator arm,rotate,excavator arm
+62,287,5,22,position excavator arm,position,excavator arm
+63,280,0,22,pick up excavator arm,pick up,excavator arm
+64,406,8,22,position screw on excavator arm,position screw on,excavator arm
+65,709,6,22,screw excavator arm with hand,screw,excavator arm
+66,407,6,22,screw excavator arm with screwdriver,screw,excavator arm
+67,127,14,22,tilt down excavator arm,tilt down,excavator arm
+68,212,0,26,pick up track,pick up,track
+69,237,5,26,position track,position,track
+70,185,8,26,position screw on track,position screw on,track
+71,319,6,26,screw track with hand,screw,track
+72,202,6,26,screw track with screwdriver,screw,track
+73,23,1,5,put down finished toy,put down,finished toy
+74,186,11,31,tilt up crane arm,tilt up,crane arm
+75,946,19,32,attempt to unscrew turntable top,attempt to unscrew,turntable top
+76,33,4,6,unscrew first wheel with screwdriver,unscrew,first wheel
+77,70,17,1,attempt to pick up screw,attempt to pick up,screw
+78,52,7,6,remove first wheel,remove,first wheel
+79,31,1,6,put down first wheel,put down,first wheel
+80,37,4,8,unscrew second wheel with screwdriver,unscrew,second wheel
+81,157,4,8,unscrew second wheel with hand,unscrew,second wheel
+82,130,7,1,remove screw,remove,screw
+83,50,7,8,remove second wheel,remove,second wheel
+84,32,1,8,put down second wheel,put down,second wheel
+85,40,4,9,unscrew third wheel with screwdriver,unscrew,third wheel
+86,171,4,9,unscrew third wheel with hand,unscrew,third wheel
+87,44,1,9,put down third wheel,put down,third wheel
+88,48,4,11,unscrew fourth wheel with screwdriver,unscrew,fourth wheel
+89,161,4,11,unscrew fourth wheel with hand,unscrew,fourth wheel
+90,250,4,3,unscrew cabin with hand,unscrew,cabin
+91,129,9,3,remove screw from cabin,remove screw from,cabin
+92,200,4,32,unscrew turntable top with screwdriver,unscrew,turntable top
+93,343,3,32,rotate turntable top,rotate,turntable top
+94,463,7,31,remove crane arm,remove,crane arm
+95,381,1,31,put down crane arm,put down,crane arm
+96,67,7,10,remove interior,remove,interior
+97,59,1,10,put down interior,put down,interior
+98,355,0,31,pick up crane arm,pick up,crane arm
+99,207,3,31,rotate crane arm,rotate,crane arm
+100,945,19,31,attempt to unscrew crane arm,attempt to unscrew,crane arm
+101,662,4,31,unscrew crane arm with screwdriver,unscrew,crane arm
+102,736,9,31,remove screw from crane arm,remove screw from,crane arm
+103,79,1,19,put down nut,put down,nut
+104,356,7,32,remove turntable top,remove,turntable top
+105,282,1,32,put down turntable top,put down,turntable top
+106,814,4,62,unscrew hook with screwdriver,unscrew,hook
+107,944,9,62,remove screw from hook,remove screw from,hook
+108,711,7,62,remove hook,remove,hook
+109,686,1,62,put down hook,put down,hook
+110,1139,17,32,attempt to pick up turntable top,attempt to pick up,turntable top
+111,41,0,10,pick up interior,pick up,interior
+112,354,5,4,position chassis,position,chassis
+113,28,0,6,pick up first wheel,pick up,first wheel
+114,36,5,6,position first wheel,position,first wheel
+115,47,8,6,position screw on first wheel,position screw on,first wheel
+116,116,6,6,screw first wheel with hand,screw,first wheel
+117,30,0,8,pick up second wheel,pick up,second wheel
+118,35,5,8,position second wheel,position,second wheel
+119,75,8,8,position screw on second wheel,position screw on,second wheel
+120,138,6,8,screw second wheel with hand,screw,second wheel
+121,53,6,6,screw first wheel with screwdriver,screw,first wheel
+122,56,6,8,screw second wheel with screwdriver,screw,second wheel
+123,34,0,9,pick up third wheel,pick up,third wheel
+124,45,5,9,position third wheel,position,third wheel
+125,57,6,9,screw third wheel with screwdriver,screw,third wheel
+126,298,0,32,pick up turntable top,pick up,turntable top
+127,39,0,11,pick up fourth wheel,pick up,fourth wheel
+128,51,5,11,position fourth wheel,position,fourth wheel
+129,60,6,11,screw fourth wheel with screwdriver,screw,fourth wheel
+130,644,10,32,pass turntable top to other hand,pass,turntable top
+131,83,5,13,position arm,position,arm
+132,274,8,32,position screw on turntable top,position screw on,turntable top
+133,391,9,32,remove screw from turntable top,remove screw from,turntable top
+134,21,10,1,pass screw to other hand,pass,screw
+135,273,6,32,screw turntable top with screwdriver,screw,turntable top
+136,62,0,19,pick up nut,pick up,nut
+137,899,6,32,screw turntable top with hand,screw,turntable top
+138,663,0,62,pick up hook,pick up,hook
+139,687,5,62,position hook,position,hook
+140,998,22,31,attempt to screw crane arm,attempt to screw,crane arm
+141,999,6,62,screw hook with hand,screw,hook
+142,645,14,62,tilt down hook,tilt down,hook
+143,509,10,31,pass crane arm to other hand,pass,crane arm
+144,433,5,31,position crane arm,position,crane arm
+145,103,8,3,position screw on cabin,position screw on,cabin
+146,108,6,3,screw cabin with screwdriver,screw,cabin
+147,233,14,31,tilt down crane arm,tilt down,crane arm
+148,617,11,62,tilt up hook,tilt up,hook
+149,9,13,5,push finished toy,push,finished toy
+150,13,15,5,pull finished toy,pull,finished toy
+151,43,3,5,rotate finished toy,rotate,finished toy
+152,76,4,7,unscrew roof with screwdriver,unscrew,roof
+153,109,9,7,remove screw from roof,remove screw from,roof
+154,72,7,7,remove roof,remove,roof
+155,149,2,7,inspect roof,inspect,roof
+156,65,1,7,put down roof,put down,roof
+157,104,4,10,unscrew interior with screwdriver,unscrew,interior
+158,136,9,10,remove screw from interior,remove screw from,interior
+159,230,4,23,unscrew arm connector with screwdriver,unscrew,arm connector
+160,560,4,23,unscrew arm connector with hand,unscrew,arm connector
+161,275,9,23,remove screw from arm connector,remove screw from,arm connector
+162,561,7,36,remove bulldozer arm,remove,bulldozer arm
+163,540,1,36,put down bulldozer arm,put down,bulldozer arm
+164,169,7,23,remove arm connector,remove,arm connector
+165,191,1,23,put down arm connector,put down,arm connector
+166,105,7,19,remove nut,remove,nut
+167,145,4,6,unscrew first wheel with hand,unscrew,first wheel
+168,155,19,18,attempt to unscrew wheel,attempt to unscrew,wheel
+169,100,9,8,remove screw from second wheel,remove screw from,second wheel
+170,54,7,9,remove third wheel,remove,third wheel
+171,119,9,11,remove screw from fourth wheel,remove screw from,fourth wheel
+172,49,1,11,put down fourth wheel,put down,fourth wheel
+173,241,20,1,attempt to put down screw,attempt to put down,screw
+174,242,7,4,remove chassis,remove,chassis
+175,187,3,10,rotate interior,rotate,interior
+176,71,3,4,rotate chassis,rotate,chassis
+177,96,2,10,inspect interior,inspect,interior
+178,479,0,36,pick up bulldozer arm,pick up,bulldozer arm
+179,605,10,36,pass bulldozer arm to other hand,pass,bulldozer arm
+180,151,4,13,unscrew arm with screwdriver,unscrew,arm
+181,124,7,13,remove arm,remove,arm
+182,175,9,13,remove screw from arm,remove screw from,arm
+183,168,10,4,pass chassis to other hand,pass,chassis
+184,81,0,12,pick up rear base,pick up,rear base
+185,137,12,12,attempt to position rear base,attempt to position,rear base
+186,154,3,12,rotate rear base,rotate,rear base
+187,89,5,12,position rear base,position,rear base
+188,80,8,9,position screw on third wheel,position screw on,third wheel
+189,146,6,9,screw third wheel with hand,screw,third wheel
+190,77,8,11,position screw on fourth wheel,position screw on,fourth wheel
+191,42,5,10,position interior,position,interior
+192,18,11,0,tilt up partial toy,tilt up,partial toy
+193,25,14,0,tilt down partial toy,tilt down,partial toy
+194,400,10,24,pass bucket to other hand,pass,bucket
+195,434,3,24,rotate bucket,rotate,bucket
+196,214,12,13,attempt to position arm,attempt to position,arm
+197,234,3,13,rotate arm,rotate,arm
+198,203,6,13,screw arm with hand,screw,arm
+199,333,2,24,inspect bucket,inspect,bucket
+200,141,8,13,position screw on arm,position screw on,arm
+201,480,3,36,rotate bulldozer arm,rotate,bulldozer arm
+202,300,4,13,unscrew arm with hand,unscrew,arm
+203,174,6,13,screw arm with screwdriver,screw,arm
+204,159,0,23,pick up arm connector,pick up,arm connector
+205,74,5,19,position nut,position,nut
+206,143,5,23,position arm connector,position,arm connector
+207,583,5,36,position bulldozer arm,position,bulldozer arm
+208,606,8,36,position screw on bulldozer arm,position screw on,bulldozer arm
+209,737,6,36,screw bulldozer arm with hand,screw,bulldozer arm
+210,494,6,36,screw bulldozer arm with screwdriver,screw,bulldozer arm
+211,63,0,7,pick up roof,pick up,roof
+212,64,5,7,position roof,position,roof
+213,91,8,7,position screw on roof,position screw on,roof
+214,122,6,7,screw roof with screwdriver,screw,roof
+215,68,10,2,pass screwdriver to other hand,pass,screwdriver
+216,243,8,23,position screw on arm connector,position screw on,arm connector
+217,299,6,23,screw arm connector with screwdriver,screw,arm connector
+218,231,11,24,tilt up bucket,tilt up,bucket
+219,215,14,24,tilt down bucket,tilt down,bucket
+220,276,2,31,inspect crane arm,inspect,crane arm
+221,1057,16,62,attempt to remove hook,attempt to remove,hook
+222,481,16,13,attempt to remove arm,attempt to remove,arm
+223,221,4,28,unscrew turntable base with screwdriver,unscrew,turntable base
+224,370,9,28,remove screw from turntable base,remove screw from,turntable base
+225,301,7,28,remove turntable base,remove,turntable base
+226,665,7,74,remove cabin window,remove,cabin window
+227,235,1,28,put down turntable base,put down,turntable base
+228,664,1,74,put down cabin window,put down,cabin window
+229,238,16,12,attempt to remove rear base,attempt to remove,rear base
+230,110,7,12,remove rear base,remove,rear base
+231,288,10,12,pass rear base to other hand,pass,rear base
+232,85,1,12,put down rear base,put down,rear base
+233,112,4,14,unscrew front bumper with screwdriver,unscrew,front bumper
+234,308,4,14,unscrew front bumper with hand,unscrew,front bumper
+235,164,9,14,remove screw from front bumper,remove screw from,front bumper
+236,118,7,14,remove front bumper,remove,front bumper
+237,101,1,14,put down front bumper,put down,front bumper
+238,464,16,7,attempt to remove roof,attempt to remove,roof
+239,86,3,3,rotate cabin,rotate,cabin
+240,97,9,6,remove screw from first wheel,remove screw from,first wheel
+241,107,9,9,remove screw from third wheel,remove screw from,third wheel
+242,55,7,11,remove fourth wheel,remove,fourth wheel
+243,158,6,11,screw fourth wheel with hand,screw,fourth wheel
+244,8,2,17,inspect diagram,inspect,diagram
+245,362,17,3,attempt to pick up cabin,attempt to pick up,cabin
+246,120,8,10,position screw on interior,position screw on,interior
+247,114,6,10,screw interior with screwdriver,screw,interior
+248,144,23,0,shake partial toy,shake,partial toy
+249,738,17,12,attempt to pick up rear base,attempt to pick up,rear base
+250,82,0,14,pick up front bumper,pick up,front bumper
+251,95,5,14,position front bumper,position,front bumper
+252,117,8,14,position screw on front bumper,position screw on,front bumper
+253,132,6,14,screw front bumper with screwdriver,screw,front bumper
+254,357,8,2,position screw on screwdriver,position screw on,screwdriver
+255,131,2,12,inspect rear base,inspect,rear base
+256,265,0,28,pick up turntable base,pick up,turntable base
+257,204,3,28,rotate turntable base,rotate,turntable base
+258,329,5,28,position turntable base,position,turntable base
+259,446,10,28,pass turntable base to other hand,pass,turntable base
+260,647,0,74,pick up cabin window,pick up,cabin window
+261,618,5,74,position cabin window,position,cabin window
+262,205,2,28,inspect turntable base,inspect,turntable base
+263,302,8,28,position screw on turntable base,position screw on,turntable base
+264,251,6,28,screw turntable base with screwdriver,screw,turntable base
+265,562,8,31,position screw on crane arm,position screw on,crane arm
+266,646,6,31,screw crane arm with screwdriver,screw,crane arm
+267,900,6,31,screw crane arm with hand,screw,crane arm
+268,61,15,0,pull partial toy,pull,partial toy
+269,58,2,5,inspect finished toy,inspect,finished toy
+270,739,15,13,pull arm,pull,arm
+271,525,13,13,push arm,push,arm
+272,92,10,3,pass cabin to other hand,pass,cabin
+273,948,16,23,attempt to remove arm connector,attempt to remove,arm connector
+274,527,7,47,remove roller arm,remove,roller arm
+275,367,3,37,rotate roller,rotate,roller
+276,447,7,37,remove roller,remove,roller
+277,344,1,37,put down roller,put down,roller
+278,188,4,15,unscrew rear body with screwdriver,unscrew,rear body
+279,262,9,15,remove screw from rear body,remove screw from,rear body
+280,947,23,4,shake chassis,shake,chassis
+281,901,6,56,screw chassis part with screwdriver,screw,chassis part
+282,26,10,0,pass partial toy to other hand,pass,partial toy
+283,435,10,23,pass arm connector to other hand,pass,arm connector
+284,815,17,15,attempt to pick up rear body,attempt to pick up,rear body
+285,309,10,13,pass arm to other hand,pass,arm
+286,338,0,37,pick up roller,pick up,roller
+287,423,5,37,position roller,position,roller
+288,510,21,37,spin roller,spin,roller
+289,526,10,47,pass roller arm to other hand,pass,roller arm
+290,1225,20,47,attempt to put down roller arm,attempt to put down,roller arm
+291,858,12,47,attempt to position roller arm,attempt to position,roller arm
+292,366,2,23,inspect arm connector,inspect,arm connector
+293,541,5,47,position roller arm,position,roller arm
+294,392,10,15,pass rear body to other hand,pass,rear body
+295,247,8,15,position screw on rear body,position screw on,rear body
+296,859,6,15,screw rear body with hand,screw,rear body
+297,208,6,15,screw rear body with screwdriver,screw,rear body
+298,1226,10,74,pass cabin window to other hand,pass,cabin window
+299,382,11,47,tilt up roller arm,tilt up,roller arm
+300,320,10,5,pass finished toy to other hand,pass,finished toy
+301,371,14,47,tilt down roller arm,tilt down,roller arm
+302,742,4,43,unscrew jackhammer arm with screwdriver,unscrew,jackhammer arm
+303,902,9,43,remove screw from jackhammer arm,remove screw from,jackhammer arm
+304,649,7,43,remove jackhammer arm,remove,jackhammer arm
+305,818,10,43,pass jackhammer arm to other hand,pass,jackhammer arm
+306,180,7,20,remove boom,remove,boom
+307,311,2,20,inspect boom,inspect,boom
+308,162,1,20,put down boom,put down,boom
+309,1002,10,64,pass jackhammer to other hand,pass,jackhammer
+310,903,4,64,unscrew jackhammer with screwdriver,unscrew,jackhammer
+311,1059,4,64,unscrew jackhammer with hand,unscrew,jackhammer
+312,817,7,64,remove jackhammer,remove,jackhammer
+313,780,1,64,put down jackhammer,put down,jackhammer
+314,1001,13,20,push boom,push,boom
+315,498,4,49,unscrew strap with screwdriver,unscrew,strap
+316,779,9,49,remove screw from strap,remove screw from,strap
+317,542,7,49,remove strap,remove,strap
+318,496,1,49,put down strap,put down,strap
+319,294,4,25,unscrew front body with screwdriver,unscrew,front body
+320,466,4,25,unscrew front body with hand,unscrew,front body
+321,190,7,25,remove front body,remove,front body
+322,167,1,25,put down front body,put down,front body
+323,690,16,50,attempt to remove light,attempt to remove,light
+324,277,7,50,remove light,remove,light
+325,348,1,50,put down light,put down,light
+326,193,7,38,remove step,remove,step
+327,232,1,38,put down step,put down,step
+328,227,12,18,attempt to position wheel,attempt to position,wheel
+329,123,10,18,pass wheel to other hand,pass,wheel
+330,222,0,38,pick up step,pick up,step
+331,189,5,38,position step,position,step
+332,289,0,50,pick up light,pick up,light
+333,259,5,50,position light,position,light
+334,152,0,25,pick up front body,pick up,front body
+335,497,10,25,pass front body to other hand,pass,front body
+336,165,5,25,position front body,position,front body
+337,223,2,25,inspect front body,inspect,front body
+338,393,8,25,position screw on front body,position screw on,front body
+339,495,6,25,screw front body with hand,screw,front body
+340,330,6,25,screw front body with screwdriver,screw,front body
+341,1000,22,25,attempt to screw front body,attempt to screw,front body
+342,415,0,49,pick up strap,pick up,strap
+343,816,2,49,inspect strap,inspect,strap
+344,949,10,49,pass strap to other hand,pass,strap
+345,293,5,49,position strap,position,strap
+346,465,6,49,screw strap with screwdriver,screw,strap
+347,46,13,0,push partial toy,push,partial toy
+348,147,0,20,pick up boom,pick up,boom
+349,166,5,20,position boom,position,boom
+350,260,8,20,position screw on boom,position screw on,boom
+351,401,6,20,screw boom with hand,screw,boom
+352,1227,17,43,attempt to pick up jackhammer arm,attempt to pick up,jackhammer arm
+353,310,11,20,tilt up boom,tilt up,boom
+354,358,14,20,tilt down boom,tilt down,boom
+355,689,0,64,pick up jackhammer,pick up,jackhammer
+356,648,5,64,position jackhammer,position,jackhammer
+357,741,8,64,position screw on jackhammer,position screw on,jackhammer
+358,666,17,19,attempt to pick up nut,attempt to pick up,nut
+359,1058,6,64,screw jackhammer with hand,screw,jackhammer
+360,219,11,43,tilt up jackhammer arm,tilt up,jackhammer arm
+361,266,14,43,tilt down jackhammer arm,tilt down,jackhammer arm
+362,740,11,64,tilt up jackhammer,tilt up,jackhammer
+363,688,14,64,tilt down jackhammer,tilt down,jackhammer
+364,499,0,34,pick up ladder basket,pick up,ladder basket
+365,363,3,34,rotate ladder basket,rotate,ladder basket
+366,339,2,34,inspect ladder basket,inspect,ladder basket
+367,619,10,34,pass ladder basket to other hand,pass,ladder basket
+368,528,5,34,position ladder basket,position,ladder basket
+369,650,4,34,unscrew ladder basket with screwdriver,unscrew,ladder basket
+370,1060,4,34,unscrew ladder basket with hand,unscrew,ladder basket
+371,819,9,34,remove screw from ladder basket,remove screw from,ladder basket
+372,448,7,34,remove ladder basket,remove,ladder basket
+373,201,14,34,tilt down ladder basket,tilt down,ladder basket
+374,621,4,57,unscrew basket with screwdriver,unscrew,basket
+375,950,4,57,unscrew basket with hand,unscrew,basket
+376,744,9,57,remove screw from basket,remove screw from,basket
+377,781,14,58,tilt down ladder,tilt down,ladder
+378,743,11,58,tilt up ladder,tilt up,ladder
+379,820,16,58,attempt to remove ladder,attempt to remove,ladder
+380,439,14,57,tilt down basket,tilt down,basket
+381,543,11,57,tilt up basket,tilt up,basket
+382,467,1,34,put down ladder basket,put down,ladder basket
+383,183,3,15,rotate rear body,rotate,rear body
+384,1003,23,15,shake rear body,shake,rear body
+385,1004,4,32,unscrew turntable top with hand,unscrew,turntable top
+386,408,2,32,inspect turntable top,inspect,turntable top
+387,620,3,2,rotate screwdriver,rotate,screwdriver
+388,440,17,0,attempt to pick up partial toy,attempt to pick up,partial toy
+389,331,20,0,attempt to put down partial toy,attempt to put down,partial toy
+390,93,16,1,attempt to remove screw,attempt to remove,screw
+391,248,4,7,unscrew roof with hand,unscrew,roof
+392,184,10,7,pass roof to other hand,pass,roof
+393,441,4,10,unscrew interior with hand,unscrew,interior
+394,482,13,3,push cabin,push,cabin
+395,584,13,4,push chassis,push,chassis
+396,1005,12,34,attempt to position ladder basket,attempt to position,ladder basket
+397,194,11,34,tilt up ladder basket,tilt up,ladder basket
+398,747,8,34,position screw on ladder basket,position screw on,ladder basket
+399,1228,22,34,attempt to screw ladder basket,attempt to screw,ladder basket
+400,668,7,57,remove basket,remove,basket
+401,667,1,57,put down basket,put down,basket
+402,904,10,58,pass ladder to other hand,pass,ladder
+403,745,12,58,attempt to position ladder,attempt to position,ladder
+404,563,5,58,position ladder,position,ladder
+405,861,6,58,screw ladder with screwdriver,screw,ladder
+406,746,0,57,pick up basket,pick up,basket
+407,905,3,57,rotate basket,rotate,basket
+408,1140,12,57,attempt to position basket,attempt to position,basket
+409,906,2,57,inspect basket,inspect,basket
+410,712,5,57,position basket,position,basket
+411,860,8,57,position screw on basket,position screw on,basket
+412,821,6,57,screw basket with screwdriver,screw,basket
+413,142,6,7,screw roof with hand,screw,roof
+414,782,4,65,unscrew fire extinguisher with screwdriver,unscrew,fire extinguisher
+415,1061,4,65,unscrew fire extinguisher with hand,unscrew,fire extinguisher
+416,907,9,65,remove screw from fire extinguisher,remove screw from,fire extinguisher
+417,749,7,65,remove fire extinguisher,remove,fire extinguisher
+418,748,1,65,put down fire extinguisher,put down,fire extinguisher
+419,1006,10,65,pass fire extinguisher to other hand,pass,fire extinguisher
+420,529,4,35,unscrew water tank with screwdriver,unscrew,water tank
+421,394,7,35,remove water tank,remove,water tank
+422,352,3,35,rotate water tank,rotate,water tank
+423,321,1,35,put down water tank,put down,water tank
+424,416,20,3,attempt to put down cabin,attempt to put down,cabin
+425,364,6,10,screw interior with hand,screw,interior
+426,278,0,35,pick up water tank,pick up,water tank
+427,565,10,35,pass water tank to other hand,pass,water tank
+428,239,2,35,inspect water tank,inspect,water tank
+429,353,12,35,attempt to position water tank,attempt to position,water tank
+430,322,5,35,position water tank,position,water tank
+431,607,8,35,position screw on water tank,position screw on,water tank
+432,564,6,35,screw water tank with screwdriver,screw,water tank
+433,1007,2,65,inspect fire extinguisher,inspect,fire extinguisher
+434,383,5,32,position turntable top,position,turntable top
+435,1141,22,32,attempt to screw turntable top,attempt to screw,turntable top
+436,750,0,65,pick up fire extinguisher,pick up,fire extinguisher
+437,783,5,65,position fire extinguisher,position,fire extinguisher
+438,1062,11,65,tilt up fire extinguisher,tilt up,fire extinguisher
+439,822,8,65,position screw on fire extinguisher,position screw on,fire extinguisher
+440,1008,6,65,screw fire extinguisher with hand,screw,fire extinguisher
+441,585,17,14,attempt to pick up front bumper,attempt to pick up,front bumper
+442,170,6,14,screw front bumper with hand,screw,front bumper
+443,823,3,65,rotate fire extinguisher,rotate,fire extinguisher
+444,1063,14,65,tilt down fire extinguisher,tilt down,fire extinguisher
+445,786,16,53,attempt to remove mixer,attempt to remove,mixer
+446,714,4,53,unscrew mixer with screwdriver,unscrew,mixer
+447,754,9,37,remove screw from roller,remove screw from,roller
+448,586,7,53,remove mixer,remove,mixer
+449,417,2,53,inspect mixer,inspect,mixer
+450,566,1,53,put down mixer,put down,mixer
+451,418,4,46,unscrew mixer stand with screwdriver,unscrew,mixer stand
+452,862,4,46,unscrew mixer stand with hand,unscrew,mixer stand
+453,501,9,46,remove screw from mixer stand,remove screw from,mixer stand
+454,502,7,46,remove mixer stand,remove,mixer stand
+455,424,1,46,put down mixer stand,put down,mixer stand
+456,691,4,68,unscrew tilter with screwdriver,unscrew,tilter
+457,825,4,68,unscrew tilter with hand,unscrew,tilter
+458,752,7,68,remove tilter,remove,tilter
+459,753,1,68,put down tilter,put down,tilter
+460,236,16,10,attempt to remove interior,attempt to remove,interior
+461,751,0,68,pick up tilter,pick up,tilter
+462,1230,3,68,rotate tilter,rotate,tilter
+463,1229,10,68,pass tilter to other hand,pass,tilter
+464,824,5,68,position tilter,position,tilter
+465,951,8,68,position screw on tilter,position screw on,tilter
+466,1009,6,68,screw tilter with hand,screw,tilter
+467,784,6,68,screw tilter with screwdriver,screw,tilter
+468,449,0,46,pick up mixer stand,pick up,mixer stand
+469,450,2,46,inspect mixer stand,inspect,mixer stand
+470,469,5,46,position mixer stand,position,mixer stand
+471,468,8,46,position screw on mixer stand,position screw on,mixer stand
+472,1010,6,46,screw mixer stand with hand,screw,mixer stand
+473,349,6,19,screw nut with hand,screw,nut
+474,500,0,53,pick up mixer,pick up,mixer
+475,483,5,53,position mixer,position,mixer
+476,713,8,53,position screw on mixer,position screw on,mixer
+477,785,6,53,screw mixer with screwdriver,screw,mixer
+478,365,21,53,spin mixer,spin,mixer
+479,252,6,3,screw cabin with hand,screw,cabin
+480,244,17,18,attempt to pick up wheel,attempt to pick up,wheel
+481,484,4,39,unscrew water tank part with screwdriver,unscrew,water tank part
+482,692,9,39,remove screw from water tank part,remove screw from,water tank part
+483,345,7,39,remove water tank part,remove,water tank part
+484,304,1,39,put down water tank part,put down,water tank part
+485,567,10,39,pass water tank part to other hand,pass,water tank part
+486,359,0,61,pick up sound module,pick up,sound module
+487,755,2,61,inspect sound module,inspect,sound module
+488,470,1,61,put down sound module,put down,sound module
+489,135,12,10,attempt to position interior,attempt to position,interior
+490,303,0,39,pick up water tank part,pick up,water tank part
+491,384,2,39,inspect water tank part,inspect,water tank part
+492,826,12,39,attempt to position water tank part,attempt to position,water tank part
+493,340,5,39,position water tank part,position,water tank part
+494,409,5,61,position sound module,position,sound module
+495,544,11,45,tilt up container,tilt up,container
+496,1064,19,45,attempt to unscrew container,attempt to unscrew,container
+497,385,1,45,put down container,put down,container
+498,372,0,45,pick up container,pick up,container
+499,442,2,45,inspect container,inspect,container
+500,402,3,45,rotate container,rotate,container
+501,503,4,45,unscrew container with screwdriver,unscrew,container
+502,715,9,45,remove screw from container,remove screw from,container
+503,373,14,55,tilt down lid,tilt down,lid
+504,150,3,18,rotate wheel,rotate,wheel
+505,126,17,2,attempt to pick up screwdriver,attempt to pick up,screwdriver
+506,693,10,45,pass container to other hand,pass,container
+507,545,5,45,position container,position,container
+508,334,20,2,attempt to put down screwdriver,attempt to put down,screwdriver
+509,622,8,45,position screw on container,position screw on,container
+510,511,6,45,screw container with screwdriver,screw,container
+511,863,13,17,push diagram,push,diagram
+512,290,3,25,rotate front body,rotate,front body
+513,134,2,18,inspect wheel,inspect,wheel
+514,953,4,54,unscrew clamp arm with screwdriver,unscrew,clamp arm
+515,1011,4,54,unscrew clamp arm with hand,unscrew,clamp arm
+516,952,9,54,remove screw from clamp arm,remove screw from,clamp arm
+517,568,7,54,remove clamp arm,remove,clamp arm
+518,419,2,54,inspect clamp arm,inspect,clamp arm
+519,651,3,54,rotate clamp arm,rotate,clamp arm
+520,587,1,54,put down clamp arm,put down,clamp arm
+521,864,3,1,rotate screw,rotate,screw
+522,608,0,54,pick up clamp arm,pick up,clamp arm
+523,1142,4,67,unscrew clamp with screwdriver,unscrew,clamp
+524,1232,19,67,attempt to unscrew clamp,attempt to unscrew,clamp
+525,1012,4,67,unscrew clamp with hand,unscrew,clamp
+526,1014,9,67,remove screw from clamp,remove screw from,clamp
+527,909,10,54,pass clamp arm to other hand,pass,clamp arm
+528,829,4,72,unscrew front base with screwdriver,unscrew,front base
+529,1144,4,72,unscrew front base with hand,unscrew,front base
+530,1013,9,72,remove screw from front base,remove screw from,front base
+531,910,7,72,remove front base,remove,front base
+532,908,1,72,put down front base,put down,front base
+533,210,7,21,remove rear bumper,remove,rear bumper
+534,163,1,21,put down rear bumper,put down,rear bumper
+535,588,3,38,rotate step,rotate,step
+536,128,0,21,pick up rear bumper,pick up,rear bumper
+537,153,5,21,position rear bumper,position,rear bumper
+538,830,0,72,pick up front base,pick up,front base
+539,828,5,72,position front base,position,front base
+540,787,0,67,pick up clamp,pick up,clamp
+541,1234,12,67,attempt to position clamp,attempt to position,clamp
+542,788,1,67,put down clamp,put down,clamp
+543,341,6,20,screw boom with screwdriver,screw,boom
+544,1066,10,67,pass clamp to other hand,pass,clamp
+545,954,5,67,position clamp,position,clamp
+546,1143,8,67,position screw on clamp,position screw on,clamp
+547,1233,6,67,screw clamp with screwdriver,screw,clamp
+548,623,5,54,position clamp arm,position,clamp arm
+549,410,11,54,tilt up clamp arm,tilt up,clamp arm
+550,1065,12,54,attempt to position clamp arm,attempt to position,clamp arm
+551,1231,6,72,screw front base with hand,screw,front base
+552,827,6,72,screw front base with screwdriver,screw,front base
+553,425,14,54,tilt down clamp arm,tilt down,clamp arm
+554,426,9,25,remove screw from front body,remove screw from,front body
+555,403,2,36,inspect bulldozer arm,inspect,bulldozer arm
+556,1235,15,25,pull front body,pull,front body
+557,69,12,3,attempt to position cabin,attempt to position,cabin
+558,350,22,4,attempt to screw chassis,attempt to screw,chassis
+559,374,15,1,pull screw,pull,screw
+560,911,20,4,attempt to put down chassis,attempt to put down,chassis
+561,269,2,1,inspect screw,inspect,screw
+562,1145,19,25,attempt to unscrew front body,attempt to unscrew,front body
+563,133,0,41,pick up screwdriver bit,pick up,screwdriver bit
+564,570,10,41,pass screwdriver bit to other hand,pass,screwdriver bit
+565,1067,4,52,unscrew engine cover with screwdriver bit,unscrew,engine cover
+566,866,4,52,unscrew engine cover with hand,unscrew,engine cover
+567,569,7,52,remove engine cover,remove,engine cover
+568,420,1,52,put down engine cover,put down,engine cover
+569,625,10,19,pass nut to other hand,pass,nut
+570,756,4,19,unscrew nut with hand,unscrew,nut
+571,486,4,11,unscrew fourth wheel with screwdriver bit,unscrew,fourth wheel
+572,624,2,41,inspect screwdriver bit,inspect,screwdriver bit
+573,831,4,4,unscrew chassis with screwdriver bit,unscrew,chassis
+574,395,16,4,attempt to remove chassis,attempt to remove,chassis
+575,832,4,29,unscrew rear roof with screwdriver bit,unscrew,rear roof
+576,305,9,29,remove screw from rear roof,remove screw from,rear roof
+577,314,7,29,remove rear roof,remove,rear roof
+578,295,1,29,put down rear roof,put down,rear roof
+579,1068,4,69,unscrew spare wheel with screwdriver bit,unscrew,spare wheel
+580,833,7,69,remove spare wheel,remove,spare wheel
+581,834,9,69,remove screw from spare wheel,remove screw from,spare wheel
+582,865,1,69,put down spare wheel,put down,spare wheel
+583,323,7,33,remove body,remove,body
+584,547,10,33,pass body to other hand,pass,body
+585,240,1,33,put down body,put down,body
+586,224,0,33,pick up body,pick up,body
+587,283,5,33,position body,position,body
+588,757,0,69,pick up spare wheel,pick up,spare wheel
+589,694,5,69,position spare wheel,position,spare wheel
+590,758,8,69,position screw on spare wheel,position screw on,spare wheel
+591,1236,6,69,screw spare wheel with drill,screw,spare wheel
+592,546,1,76,put down drill,put down,drill
+593,306,0,29,pick up rear roof,pick up,rear roof
+594,326,5,29,position rear roof,position,rear roof
+595,245,8,29,position screw on rear roof,position screw on,rear roof
+596,590,6,29,screw rear roof with hand,screw,rear roof
+597,485,0,76,pick up drill,pick up,drill
+598,1069,6,29,screw rear roof with drill,screw,rear roof
+599,140,1,41,put down screwdriver bit,put down,screwdriver bit
+600,368,0,52,pick up engine cover,pick up,engine cover
+601,1146,10,52,pass engine cover to other hand,pass,engine cover
+602,471,5,52,position engine cover,position,engine cover
+603,589,8,52,position screw on engine cover,position screw on,engine cover
+604,1015,3,52,rotate engine cover,rotate,engine cover
+605,716,6,52,screw engine cover with hand,screw,engine cover
+606,837,9,52,remove screw from engine cover,remove screw from,engine cover
+607,717,16,29,attempt to remove rear roof,attempt to remove,rear roof
+608,626,4,29,unscrew rear roof with hand,unscrew,rear roof
+609,591,3,29,rotate rear roof,rotate,rear roof
+610,1345,4,69,unscrew spare wheel with hand,unscrew,spare wheel
+611,1148,20,33,attempt to put down body,attempt to put down,body
+612,451,4,6,unscrew first wheel with screwdriver bit,unscrew,first wheel
+613,504,4,8,unscrew second wheel with screwdriver bit,unscrew,second wheel
+614,472,4,9,unscrew third wheel with screwdriver bit,unscrew,third wheel
+615,836,15,4,pull chassis,pull,chassis
+616,296,22,18,attempt to screw wheel,attempt to screw,wheel
+617,513,6,6,screw first wheel with screwdriver bit,screw,first wheel
+618,571,6,9,screw third wheel with screwdriver bit,screw,third wheel
+619,1070,3,41,rotate screwdriver bit,rotate,screwdriver bit
+620,1016,17,29,attempt to pick up rear roof,attempt to pick up,rear roof
+621,835,6,69,screw spare wheel with hand,screw,spare wheel
+622,669,2,76,inspect drill,inspect,drill
+623,1147,5,41,position screwdriver bit,position,screwdriver bit
+624,512,3,33,rotate body,rotate,body
+625,225,6,29,screw rear roof with screwdriver,screw,rear roof
+626,1344,6,52,screw engine cover with drill,screw,engine cover
+627,789,19,23,attempt to unscrew arm connector,attempt to unscrew,arm connector
+628,427,4,36,unscrew bulldozer arm with screwdriver,unscrew,bulldozer arm
+629,790,4,36,unscrew bulldozer arm with hand,unscrew,bulldozer arm
+630,452,9,36,remove screw from bulldozer arm,remove screw from,bulldozer arm
+631,160,2,13,inspect arm,inspect,arm
+632,1237,22,24,attempt to screw bucket,attempt to screw,bucket
+633,73,21,18,spin wheel,spin,wheel
+634,279,11,36,tilt up bulldozer arm,tilt up,bulldozer arm
+635,284,14,36,tilt down bulldozer arm,tilt down,bulldozer arm
+636,487,6,23,screw arm connector with hand,screw,arm connector
+637,1017,3,74,rotate cabin window,rotate,cabin window
+638,270,4,29,unscrew rear roof with screwdriver,unscrew,rear roof
+639,670,10,29,pass rear roof to other hand,pass,rear roof
+640,267,0,51,pick up rear door,pick up,rear door
+641,453,7,51,remove rear door,remove,rear door
+642,386,1,51,put down rear door,put down,rear door
+643,718,16,30,attempt to remove transport cabin,attempt to remove,transport cabin
+644,172,4,30,unscrew transport cabin with screwdriver,unscrew,transport cabin
+645,404,7,30,remove transport cabin,remove,transport cabin
+646,307,3,30,rotate transport cabin,rotate,transport cabin
+647,505,10,30,pass transport cabin to other hand,pass,transport cabin
+648,411,1,30,put down transport cabin,put down,transport cabin
+649,78,11,7,tilt up roof,tilt up,roof
+650,94,14,7,tilt down roof,tilt down,roof
+651,572,7,61,remove sound module,remove,sound module
+652,387,0,30,pick up transport cabin,pick up,transport cabin
+653,530,12,30,attempt to position transport cabin,attempt to position,transport cabin
+654,256,2,30,inspect transport cabin,inspect,transport cabin
+655,375,5,30,position transport cabin,position,transport cabin
+656,548,2,29,inspect rear roof,inspect,rear roof
+657,719,10,51,pass rear door to other hand,pass,rear door
+658,759,12,51,attempt to position rear door,attempt to position,rear door
+659,671,3,51,rotate rear door,rotate,rear door
+660,315,5,51,position rear door,position,rear door
+661,335,8,30,position screw on transport cabin,position screw on,transport cabin
+662,226,6,30,screw transport cabin with screwdriver,screw,transport cabin
+663,488,2,51,inspect rear door,inspect,rear door
+664,867,4,14,unscrew front bumper with screwdriver bit,unscrew,front bumper
+665,955,4,16,unscrew dump bed with screwdriver bit,unscrew,dump bed
+666,574,4,16,unscrew dump bed with hand,unscrew,dump bed
+667,253,7,16,remove dump bed,remove,dump bed
+668,177,1,16,put down dump bed,put down,dump bed
+669,181,0,16,pick up dump bed,pick up,dump bed
+670,156,2,16,inspect dump bed,inspect,dump bed
+671,216,5,16,position dump bed,position,dump bed
+672,514,6,16,screw dump bed with hand,screw,dump bed
+673,1018,6,16,screw dump bed with screwdriver bit,screw,dump bed
+674,246,8,16,position screw on dump bed,position screw on,dump bed
+675,1071,6,14,screw front bumper with screwdriver bit,screw,front bumper
+676,652,6,8,screw second wheel with screwdriver bit,screw,second wheel
+677,573,6,11,screw fourth wheel with screwdriver bit,screw,fourth wheel
+678,90,11,16,tilt up dump bed,tilt up,dump bed
+679,102,14,16,tilt down dump bed,tilt down,dump bed
+680,454,4,52,unscrew engine cover with screwdriver,unscrew,engine cover
+681,1149,20,52,attempt to put down engine cover,attempt to put down,engine cover
+682,627,4,66,unscrew spoiler with screwdriver,unscrew,spoiler
+683,791,7,66,remove spoiler,remove,spoiler
+684,1241,10,66,pass spoiler to other hand,pass,spoiler
+685,720,1,66,put down spoiler,put down,spoiler
+686,957,4,59,unscrew rocker panel with screwdriver,unscrew,rocker panel
+687,958,9,59,remove screw from rocker panel,remove screw from,rocker panel
+688,490,7,59,remove rocker panel,remove,rocker panel
+689,489,1,59,put down rocker panel,put down,rocker panel
+690,1240,16,59,attempt to remove rocker panel,attempt to remove,rocker panel
+691,1346,4,59,unscrew rocker panel with hand,unscrew,rocker panel
+692,360,2,33,inspect body,inspect,body
+693,1072,4,81,unscrew engine with screwdriver,unscrew,engine
+694,1073,16,81,attempt to remove engine,attempt to remove,engine
+695,1238,9,81,remove screw from engine,remove screw from,engine
+696,956,7,81,remove engine,remove,engine
+697,912,1,81,put down engine,put down,engine
+698,1239,8,81,position screw on engine,position screw on,engine
+699,868,0,81,pick up engine,pick up,engine
+700,869,5,81,position engine,position,engine
+701,1150,6,81,screw engine with screwdriver,screw,engine
+702,455,0,59,pick up rocker panel,pick up,rocker panel
+703,1074,3,59,rotate rocker panel,rotate,rocker panel
+704,515,5,59,position rocker panel,position,rocker panel
+705,760,8,59,position screw on rocker panel,position screw on,rocker panel
+706,959,6,59,screw rocker panel with hand,screw,rocker panel
+707,792,6,59,screw rocker panel with screwdriver,screw,rocker panel
+708,628,0,66,pick up spoiler,pick up,spoiler
+709,695,5,66,position spoiler,position,spoiler
+710,672,6,66,screw spoiler with screwdriver,screw,spoiler
+711,332,2,14,inspect front bumper,inspect,front bumper
+712,592,6,52,screw engine cover with screwdriver,screw,engine cover
+713,721,17,5,attempt to pick up finished toy,attempt to pick up,finished toy
+714,178,13,18,push wheel,push,wheel
+715,549,16,14,attempt to remove front bumper,attempt to remove,front bumper
+716,609,17,4,attempt to pick up chassis,attempt to pick up,chassis
+717,550,2,2,inspect screwdriver,inspect,screwdriver
+718,629,19,3,attempt to unscrew cabin,attempt to unscrew,cabin
+719,1020,16,19,attempt to remove nut,attempt to remove,nut
+720,531,1,79,put down wrench,put down,wrench
+721,285,13,2,push screwdriver,push,screwdriver
+722,421,0,79,pick up wrench,pick up,wrench
+723,1019,4,6,unscrew first wheel with wrench,unscrew,first wheel
+724,377,12,14,attempt to position front bumper,attempt to position,front bumper
+725,913,4,8,unscrew second wheel with wrench,unscrew,second wheel
+726,1021,4,9,unscrew third wheel with wrench,unscrew,third wheel
+727,593,16,24,attempt to remove bucket,attempt to remove,bucket
+728,192,2,22,inspect excavator arm,inspect,excavator arm
+729,111,11,22,tilt up excavator arm,tilt up,excavator arm
+730,228,4,20,unscrew boom with screwdriver,unscrew,boom
+731,254,9,20,remove screw from boom,remove screw from,boom
+732,761,16,22,attempt to remove excavator arm,attempt to remove,excavator arm
+733,1075,20,20,attempt to put down boom,attempt to put down,boom
+734,696,16,32,attempt to remove turntable top,attempt to remove,turntable top
+735,220,4,21,unscrew rear bumper with screwdriver,unscrew,rear bumper
+736,532,10,21,pass rear bumper to other hand,pass,rear bumper
+737,312,8,21,position screw on rear bumper,position screw on,rear bumper
+738,456,6,21,screw rear bumper with hand,screw,rear bumper
+739,376,3,21,rotate rear bumper,rotate,rear bumper
+740,342,6,21,screw rear bumper with screwdriver,screw,rear bumper
+741,388,12,28,attempt to position turntable base,attempt to position,turntable base
+742,324,12,20,attempt to position boom,attempt to position,boom
+743,960,13,24,push bucket,push,bucket
+744,793,20,13,attempt to put down arm,attempt to put down,arm
+745,378,10,14,pass front bumper to other hand,pass,front bumper
+746,697,3,14,rotate front bumper,rotate,front bumper
+747,594,4,21,unscrew rear bumper with hand,unscrew,rear bumper
+748,533,20,18,attempt to put down wheel,attempt to put down,wheel
+749,1076,6,8,screw second wheel with wrench,screw,second wheel
+750,1151,6,9,screw third wheel with wrench,screw,third wheel
+751,1152,6,11,screw fourth wheel with wrench,screw,fourth wheel
+752,396,2,21,inspect rear bumper,inspect,rear bumper
+753,211,4,16,unscrew dump bed with screwdriver,unscrew,dump bed
+754,351,9,16,remove screw from dump bed,remove screw from,dump bed
+755,325,9,2,remove screw from screwdriver,remove screw from,screwdriver
+756,961,20,7,attempt to put down roof,attempt to put down,roof
+757,491,19,10,attempt to unscrew interior,attempt to unscrew,interior
+758,113,4,12,unscrew rear base with screwdriver,unscrew,rear base
+759,197,9,12,remove screw from rear base,remove screw from,rear base
+760,148,6,12,screw rear base with screwdriver,screw,rear base
+761,206,8,12,position screw on rear base,position screw on,rear base
+762,255,3,16,rotate dump bed,rotate,dump bed
+763,297,6,16,screw dump bed with screwdriver,screw,dump bed
+764,1153,22,16,attempt to screw dump bed,attempt to screw,dump bed
+765,595,22,10,attempt to screw interior,attempt to screw,interior
+766,551,4,12,unscrew rear base with hand,unscrew,rear base
+767,698,12,38,attempt to position step,attempt to position,step
+768,257,16,18,attempt to remove wheel,attempt to remove,wheel
+769,870,19,14,attempt to unscrew front bumper,attempt to unscrew,front bumper
+770,534,23,3,shake cabin,shake,cabin
+771,1243,17,48,attempt to pick up grill,attempt to pick up,grill
+772,397,0,48,pick up grill,pick up,grill
+773,369,5,48,position grill,position,grill
+774,1242,3,48,rotate grill,rotate,grill
+775,838,2,19,inspect nut,inspect,nut
+776,914,17,41,attempt to pick up screwdriver bit,attempt to pick up,screwdriver bit
+777,379,11,5,tilt up finished toy,tilt up,finished toy
+778,1245,4,15,unscrew rear body with drill,unscrew,rear body
+779,653,4,15,unscrew rear body with hand,unscrew,rear body
+780,596,19,15,attempt to unscrew rear body,attempt to unscrew,rear body
+781,1347,4,67,unscrew clamp with drill,unscrew,clamp
+782,699,13,19,push nut,push,nut
+783,1244,4,13,unscrew arm with drill,unscrew,arm
+784,1155,4,10,unscrew interior with drill,unscrew,interior
+785,1077,6,10,screw interior with drill,screw,interior
+786,1154,6,15,screw rear body with drill,screw,rear body
+787,631,11,67,tilt up clamp,tilt up,clamp
+788,630,14,67,tilt down clamp,tilt down,clamp
+789,436,9,21,remove screw from rear bumper,remove screw from,rear bumper
+790,473,4,20,unscrew boom with hand,unscrew,boom
+791,1246,22,21,attempt to screw rear bumper,attempt to screw,rear bumper
+792,336,1,22,put down excavator arm,put down,excavator arm
+793,839,20,23,attempt to put down arm connector,attempt to put down,arm connector
+794,535,12,22,attempt to position excavator arm,attempt to position,excavator arm
+795,654,9,22,remove screw from excavator arm,remove screw from,excavator arm
+796,249,12,23,attempt to position arm connector,attempt to position,arm connector
+797,575,16,21,attempt to remove rear bumper,attempt to remove,rear bumper
+798,762,19,13,attempt to unscrew arm,attempt to unscrew,arm
+799,1022,19,22,attempt to unscrew excavator arm,attempt to unscrew,excavator arm
+800,506,3,23,rotate arm connector,rotate,arm connector
+801,286,11,13,tilt up arm,tilt up,arm
+802,1078,17,22,attempt to pick up excavator arm,attempt to pick up,excavator arm
+803,258,12,7,attempt to position roof,attempt to position,roof
+804,115,16,3,attempt to remove cabin,attempt to remove,cabin
+805,597,17,21,attempt to pick up rear bumper,attempt to pick up,rear bumper
+806,198,12,21,attempt to position rear bumper,attempt to position,rear bumper
+807,962,13,21,push rear bumper,push,rear bumper
+808,1079,4,35,unscrew water tank with hand,unscrew,water tank
+809,1348,6,35,screw water tank with hand,screw,water tank
+810,1156,16,35,attempt to remove water tank,attempt to remove,water tank
+811,1157,19,35,attempt to unscrew water tank,attempt to unscrew,water tank
+812,763,16,39,attempt to remove water tank part,attempt to remove,water tank part
+813,1247,23,39,shake water tank part,shake,water tank part
+814,794,3,39,rotate water tank part,rotate,water tank part
+815,655,12,4,attempt to position chassis,attempt to position,chassis
+816,209,10,10,pass interior to other hand,pass,interior
+817,263,3,7,rotate roof,rotate,roof
+818,915,15,17,pull diagram,pull,diagram
+819,963,9,66,remove screw from spoiler,remove screw from,spoiler
+820,916,16,66,attempt to remove spoiler,attempt to remove,spoiler
+821,656,16,25,attempt to remove front body,attempt to remove,front body
+822,964,20,14,attempt to put down front bumper,attempt to put down,front bumper
+823,405,12,25,attempt to position front body,attempt to position,front body
+824,764,13,7,push roof,push,roof
+825,917,12,59,attempt to position rocker panel,attempt to position,rocker panel
+826,795,8,66,position screw on spoiler,position screw on,spoiler
+827,722,2,58,inspect ladder,inspect,ladder
+828,674,1,58,put down ladder,put down,ladder
+829,536,19,7,attempt to unscrew roof,attempt to unscrew,roof
+830,840,13,12,push rear base,push,rear base
+831,723,15,3,pull cabin,pull,cabin
+832,492,17,10,attempt to pick up interior,attempt to pick up,interior
+833,598,0,58,pick up ladder,pick up,ladder
+834,1080,15,58,pull ladder,pull,ladder
+835,1158,13,58,push ladder,push,ladder
+836,1081,22,57,attempt to screw basket,attempt to screw,basket
+837,673,15,34,pull ladder basket,pull,ladder basket
+838,700,13,34,push ladder basket,push,ladder basket
+839,1023,19,46,attempt to unscrew mixer stand,attempt to unscrew,mixer stand
+840,1248,13,46,push mixer stand,push,mixer stand
+841,493,6,46,screw mixer stand with screwdriver,screw,mixer stand
+842,965,11,53,tilt up mixer,tilt up,mixer
+843,1082,14,53,tilt down mixer,tilt down,mixer
+844,1159,20,53,attempt to put down mixer,attempt to put down,mixer
+845,457,4,48,unscrew grill with screwdriver,unscrew,grill
+846,632,9,48,remove screw from grill,remove screw from,grill
+847,443,7,48,remove grill,remove,grill
+848,428,1,48,put down grill,put down,grill
+849,398,8,48,position screw on grill,position screw on,grill
+850,552,6,48,screw grill with screwdriver,screw,grill
+851,633,4,40,unscrew cylinder with screwdriver,unscrew,cylinder
+852,765,9,40,remove screw from cylinder,remove screw from,cylinder
+853,327,1,40,put down cylinder,put down,cylinder
+854,217,0,40,pick up cylinder,pick up,cylinder
+855,271,5,40,position cylinder,position,cylinder
+856,412,10,16,pass dump bed to other hand,pass,dump bed
+857,1083,20,16,attempt to put down dump bed,attempt to put down,dump bed
+858,537,2,50,inspect light,inspect,light
+859,1024,12,50,attempt to position light,attempt to position,light
+860,1025,17,16,attempt to pick up dump bed,attempt to pick up,dump bed
+861,766,19,29,attempt to unscrew rear roof,attempt to unscrew,rear roof
+862,1249,15,51,pull rear door,pull,rear door
+863,1084,13,29,push rear roof,push,rear roof
+864,796,22,3,attempt to screw cabin,attempt to screw,cabin
+865,701,13,14,push front bumper,push,front bumper
+866,702,12,29,attempt to position rear roof,attempt to position,rear roof
+867,1250,22,30,attempt to screw transport cabin,attempt to screw,transport cabin
+868,429,9,30,remove screw from transport cabin,remove screw from,transport cabin
+869,1160,22,29,attempt to screw rear roof,attempt to screw,rear roof
+870,1251,4,30,unscrew transport cabin with hand,unscrew,transport cabin
+871,1349,13,30,push transport cabin,push,transport cabin
+872,634,4,63,unscrew fifth wheel with screwdriver,unscrew,fifth wheel
+873,918,9,63,remove screw from fifth wheel,remove screw from,fifth wheel
+874,610,7,63,remove fifth wheel,remove,fifth wheel
+875,576,1,63,put down fifth wheel,put down,fifth wheel
+876,313,16,33,attempt to remove body,attempt to remove,body
+877,724,3,42,rotate side door,rotate,side door
+878,635,7,70,remove back seat,remove,back seat
+879,703,1,70,put down back seat,put down,back seat
+880,316,5,42,position side door,position,side door
+881,474,2,42,inspect side door,inspect,side door
+882,317,0,42,pick up side door,pick up,side door
+883,361,1,42,put down side door,put down,side door
+884,389,7,42,remove side door,remove,side door
+885,676,11,33,tilt up body,tilt up,body
+886,841,7,77,remove dashboard,remove,dashboard
+887,1252,20,77,attempt to put down dashboard,attempt to put down,dashboard
+888,797,1,77,put down dashboard,put down,dashboard
+889,842,0,77,pick up dashboard,pick up,dashboard
+890,966,12,77,attempt to position dashboard,attempt to position,dashboard
+891,1161,2,77,inspect dashboard,inspect,dashboard
+892,675,5,77,position dashboard,position,dashboard
+893,599,0,70,pick up back seat,pick up,back seat
+894,475,5,70,position back seat,position,back seat
+895,1026,2,70,inspect back seat,inspect,back seat
+896,1027,17,33,attempt to pick up body,attempt to pick up,body
+897,577,12,42,attempt to position side door,attempt to position,side door
+898,798,10,42,pass side door to other hand,pass,side door
+899,871,6,69,screw spare wheel with screwdriver,screw,spare wheel
+900,967,10,70,pass back seat to other hand,pass,back seat
+901,636,0,63,pick up fifth wheel,pick up,fifth wheel
+902,843,8,63,position screw on fifth wheel,position screw on,fifth wheel
+903,725,6,63,screw fifth wheel with screwdriver,screw,fifth wheel
+904,657,5,63,position fifth wheel,position,fifth wheel
+905,968,14,42,tilt down side door,tilt down,side door
+906,553,8,33,position screw on body,position screw on,body
+907,969,4,63,unscrew fifth wheel with hand,unscrew,fifth wheel
+908,1028,4,69,unscrew spare wheel with screwdriver,unscrew,spare wheel
+909,1253,6,63,screw fifth wheel with hand,screw,fifth wheel
+910,1029,16,46,attempt to remove mixer stand,attempt to remove,mixer stand
+911,1162,15,21,pull rear bumper,pull,rear bumper
+912,844,3,53,rotate mixer,rotate,mixer
+913,872,9,53,remove screw from mixer,remove screw from,mixer
+914,1163,10,53,pass mixer to other hand,pass,mixer
+915,516,12,19,attempt to position nut,attempt to position,nut
+916,1085,8,19,position screw on nut,position screw on,nut
+917,1086,6,19,screw nut with screwdriver,screw,nut
+918,873,12,53,attempt to position mixer,attempt to position,mixer
+919,874,16,16,attempt to remove dump bed,attempt to remove,dump bed
+920,637,2,56,inspect chassis part,inspect,chassis part
+921,970,2,48,inspect grill,inspect,grill
+922,1164,12,56,attempt to position chassis part,attempt to position,chassis part
+923,658,3,56,rotate chassis part,rotate,chassis part
+924,659,6,48,screw grill with hand,screw,grill
+925,600,7,45,remove container,remove,container
+926,639,4,55,unscrew lid with screwdriver,unscrew,lid
+927,678,9,55,remove screw from lid,remove screw from,lid
+928,1032,7,73,remove container part,remove,container part
+929,578,1,73,put down container part,put down,container part
+930,767,7,55,remove lid,remove,lid
+931,612,1,55,put down lid,put down,lid
+932,611,0,73,pick up container part,pick up,container part
+933,972,10,73,pass container part to other hand,pass,container part
+934,638,0,55,pick up lid,pick up,lid
+935,799,5,55,position lid,position,lid
+936,1087,3,73,rotate container part,rotate,container part
+937,845,5,73,position container part,position,container part
+938,971,2,73,inspect container part,inspect,container part
+939,677,8,55,position screw on lid,position screw on,lid
+940,1030,6,55,screw lid with hand,screw,lid
+941,875,6,55,screw lid with screwdriver,screw,lid
+942,1031,3,50,rotate light,rotate,light
+943,390,11,55,tilt up lid,tilt up,lid
+944,847,4,71,unscrew sixth wheel with screwdriver,unscrew,sixth wheel
+945,768,7,71,remove sixth wheel,remove,sixth wheel
+946,802,1,71,put down sixth wheel,put down,sixth wheel
+947,800,0,71,pick up sixth wheel,pick up,sixth wheel
+948,801,5,71,position sixth wheel,position,sixth wheel
+949,919,8,71,position screw on sixth wheel,position screw on,sixth wheel
+950,846,6,71,screw sixth wheel with screwdriver,screw,sixth wheel
+951,1088,4,71,unscrew sixth wheel with hand,unscrew,sixth wheel
+952,973,9,71,remove screw from sixth wheel,remove screw from,sixth wheel
+953,726,4,42,unscrew side door with screwdriver,unscrew,side door
+954,1089,9,42,remove screw from side door,remove screw from,side door
+955,1090,23,18,shake wheel,shake,wheel
+956,1033,16,84,attempt to remove rim,attempt to remove,rim
+957,1254,7,84,remove rim,remove,rim
+958,1165,13,35,push water tank,push,water tank
+959,920,0,84,pick up rim,pick up,rim
+960,769,5,84,position rim,position,rim
+961,613,8,42,position screw on side door,position screw on,side door
+962,876,6,42,screw side door with screwdriver,screw,side door
+963,848,6,65,screw fire extinguisher with screwdriver,screw,fire extinguisher
+964,877,4,42,unscrew side door with hand,unscrew,side door
+965,1091,6,42,screw side door with hand,screw,side door
+966,1255,17,65,attempt to pick up fire extinguisher,attempt to pick up,fire extinguisher
+967,1092,13,22,push excavator arm,push,excavator arm
+968,1034,19,28,attempt to unscrew turntable base,attempt to unscrew,turntable base
+969,849,17,28,attempt to pick up turntable base,attempt to pick up,turntable base
+970,507,12,24,attempt to position bucket,attempt to position,bucket
+971,770,4,24,unscrew bucket with hand,unscrew,bucket
+972,921,16,28,attempt to remove turntable base,attempt to remove,turntable base
+973,422,10,20,pass boom to other hand,pass,boom
+974,803,11,4,tilt up chassis,tilt up,chassis
+975,922,19,24,attempt to unscrew bucket,attempt to unscrew,bucket
+976,1035,20,28,attempt to put down turntable base,attempt to put down,turntable base
+977,1256,2,74,inspect cabin window,inspect,cabin window
+978,771,6,43,screw jackhammer arm with screwdriver,screw,jackhammer arm
+979,850,3,43,rotate jackhammer arm,rotate,jackhammer arm
+980,517,1,43,put down jackhammer arm,put down,jackhammer arm
+981,195,12,15,attempt to position rear body,attempt to position,rear body
+982,518,0,43,pick up jackhammer arm,pick up,jackhammer arm
+983,538,5,43,position jackhammer arm,position,jackhammer arm
+984,878,8,43,position screw on jackhammer arm,position screw on,jackhammer arm
+985,539,15,18,pull wheel,pull,wheel
+986,554,2,43,inspect jackhammer arm,inspect,jackhammer arm
+987,974,14,5,tilt down finished toy,tilt down,finished toy
+988,1259,16,60,attempt to remove blade,attempt to remove,blade
+989,1258,16,26,attempt to remove track,attempt to remove,track
+990,555,2,26,inspect track,inspect,track
+991,1166,10,26,pass track to other hand,pass,track
+992,682,3,26,rotate track,rotate,track
+993,704,0,60,pick up blade,pick up,blade
+994,1257,10,60,pass blade to other hand,pass,blade
+995,1260,3,60,rotate blade,rotate,blade
+996,681,1,60,put down blade,put down,blade
+997,1261,2,75,inspect figurine,inspect,figurine
+998,1350,15,60,pull blade,pull,blade
+999,1095,17,25,attempt to pick up front body,attempt to pick up,front body
+1000,1094,13,26,push track,push,track
+1001,851,5,60,position blade,position,blade
+1002,679,8,60,position screw on blade,position screw on,blade
+1003,680,6,60,screw blade with screwdriver,screw,blade
+1004,1093,2,60,inspect blade,inspect,blade
+1005,660,14,60,tilt down blade,tilt down,blade
+1006,601,11,60,tilt up blade,tilt up,blade
+1007,683,4,60,unscrew blade with screwdriver,unscrew,blade
+1008,1097,4,60,unscrew blade with hand,unscrew,blade
+1009,880,9,60,remove screw from blade,remove screw from,blade
+1010,879,7,60,remove blade,remove,blade
+1011,1036,4,56,unscrew chassis part with screwdriver,unscrew,chassis part
+1012,1167,4,56,unscrew chassis part with hand,unscrew,chassis part
+1013,923,8,56,position screw on chassis part,position screw on,chassis part
+1014,705,12,26,attempt to position track,attempt to position,track
+1015,1096,6,60,screw blade with hand,screw,blade
+1016,852,15,2,pull screwdriver,pull,screwdriver
+1017,706,6,34,screw ladder basket with screwdriver,screw,ladder basket
+1018,1098,3,55,rotate lid,rotate,lid
+1019,924,2,55,inspect lid,inspect,lid
+1020,1262,12,55,attempt to position lid,attempt to position,lid
+1021,975,15,10,pull interior,pull,interior
+1022,556,3,20,rotate boom,rotate,boom
+1023,727,17,20,attempt to pick up boom,attempt to pick up,boom
+1024,1099,11,3,tilt up cabin,tilt up,cabin
+1025,318,14,13,tilt down arm,tilt down,arm
+1026,881,6,64,screw jackhammer with screwdriver,screw,jackhammer
+1027,614,0,17,pick up diagram,pick up,diagram
+1028,579,16,15,attempt to remove rear body,attempt to remove,rear body
+1029,1100,20,25,attempt to put down front body,attempt to put down,front body
+1030,976,17,13,attempt to pick up arm,attempt to pick up,arm
+1031,804,12,36,attempt to position bulldozer arm,attempt to position,bulldozer arm
+1032,1101,20,5,attempt to put down finished toy,attempt to put down,finished toy
+1033,926,10,50,pass light to other hand,pass,light
+1034,728,11,30,tilt up transport cabin,tilt up,transport cabin
+1035,925,23,30,shake transport cabin,shake,transport cabin
+1036,580,17,7,attempt to pick up roof,attempt to pick up,roof
+1037,927,17,26,attempt to pick up track,attempt to pick up,track
+1038,1168,22,26,attempt to screw track,attempt to screw,track
+1039,640,1,17,put down diagram,put down,diagram
+1040,445,0,47,pick up roller arm,pick up,roller arm
+1041,476,2,47,inspect roller arm,inspect,roller arm
+1042,430,4,37,unscrew roller with screwdriver,unscrew,roller
+1043,519,3,47,rotate roller arm,rotate,roller arm
+1044,882,4,47,unscrew roller arm with screwdriver,unscrew,roller arm
+1045,444,4,44,unscrew push frame with screwdriver,unscrew,push frame
+1046,508,9,44,remove screw from push frame,remove screw from,push frame
+1047,460,1,44,put down push frame,put down,push frame
+1048,459,0,44,pick up push frame,pick up,push frame
+1049,805,10,44,pass push frame to other hand,pass,push frame
+1050,458,8,44,position screw on push frame,position screw on,push frame
+1051,806,6,37,screw roller with hand,screw,roller
+1052,602,6,37,screw roller with screwdriver,screw,roller
+1053,477,1,47,put down roller arm,put down,roller arm
+1054,928,8,47,position screw on roller arm,position screw on,roller arm
+1055,1102,6,47,screw roller arm with screwdriver,screw,roller arm
+1056,1103,4,37,unscrew roller with hand,unscrew,roller
+1057,977,3,44,rotate push frame,rotate,push frame
+1058,520,6,44,screw push frame with hand,screw,push frame
+1059,431,6,44,screw push frame with screwdriver,screw,push frame
+1060,883,13,10,push interior,push,interior
+1061,581,8,39,position screw on water tank part,position screw on,water tank part
+1062,641,6,39,screw water tank part with screwdriver,screw,water tank part
+1063,853,22,14,attempt to screw front bumper,attempt to screw,front bumper
+1064,615,4,33,unscrew body with screwdriver,unscrew,body
+1065,729,9,33,remove screw from body,remove screw from,body
+1066,616,6,33,screw body with screwdriver,screw,body
+1067,772,8,49,position screw on strap,position screw on,strap
+1068,1351,13,75,push figurine,push,figurine
+1069,854,9,35,remove screw from water tank,remove screw from,water tank
+1070,1169,7,86,remove fire equipment,remove,fire equipment
+1071,1104,16,86,attempt to remove fire equipment,attempt to remove,fire equipment
+1072,773,0,78,pick up connector,pick up,connector
+1073,1170,0,86,pick up fire equipment,pick up,fire equipment
+1074,1263,5,86,position fire equipment,position,fire equipment
+1075,730,5,78,position connector,position,connector
+1076,1172,19,55,attempt to unscrew lid,attempt to unscrew,lid
+1077,1171,4,55,unscrew lid with drill,unscrew,lid
+1078,1105,10,76,pass drill to other hand,pass,drill
+1079,1264,9,82,remove screw from windshield,remove screw from,windshield
+1080,884,7,82,remove windshield,remove,windshield
+1081,929,1,82,put down windshield,put down,windshield
+1082,931,4,55,unscrew lid with screwdriver bit,unscrew,lid
+1083,1174,4,14,unscrew front bumper with drill,unscrew,front bumper
+1084,1265,6,4,screw chassis with drill,screw,chassis
+1085,807,12,33,attempt to position body,attempt to position,body
+1086,1352,6,55,screw lid with drill,screw,lid
+1087,978,0,82,pick up windshield,pick up,windshield
+1088,1106,2,82,inspect windshield,inspect,windshield
+1089,930,5,82,position windshield,position,windshield
+1090,1173,8,82,position screw on windshield,position screw on,windshield
+1091,979,4,10,unscrew interior with screwdriver bit,unscrew,interior
+1092,1266,4,82,unscrew windshield with hand,unscrew,windshield
+1093,1107,6,4,screw chassis with screwdriver bit,screw,chassis
+1094,1109,6,10,screw interior with screwdriver bit,screw,interior
+1095,1353,6,55,screw lid with screwdriver bit,screw,lid
+1096,1108,8,41,position screw on screwdriver bit,position screw on,screwdriver bit
+1097,1175,19,48,attempt to unscrew grill,attempt to unscrew,grill
+1098,932,4,48,unscrew grill with hand,unscrew,grill
+1099,557,19,12,attempt to unscrew rear base,attempt to unscrew,rear base
+1100,346,12,16,attempt to position dump bed,attempt to position,dump bed
+1101,1267,23,16,shake dump bed,shake,dump bed
+1102,885,22,15,attempt to screw rear body,attempt to screw,rear body
+1103,1268,12,46,attempt to position mixer stand,attempt to position,mixer stand
+1104,980,3,46,rotate mixer stand,rotate,mixer stand
+1105,1269,16,61,attempt to remove sound module,attempt to remove,sound module
+1106,1176,6,53,screw mixer with hand,screw,mixer
+1107,808,16,31,attempt to remove crane arm,attempt to remove,crane arm
+1108,887,13,31,push crane arm,push,crane arm
+1109,1037,15,31,pull crane arm,pull,crane arm
+1110,886,2,62,inspect hook,inspect,hook
+1111,933,8,62,position screw on hook,position screw on,hook
+1112,582,2,38,inspect step,inspect,step
+1113,1038,20,15,attempt to put down rear body,attempt to put down,rear body
+1114,1177,15,36,pull bulldozer arm,pull,bulldozer arm
+1115,661,8,54,position screw on clamp arm,position screw on,clamp arm
+1116,809,6,54,screw clamp arm with hand,screw,clamp arm
+1117,934,6,54,screw clamp arm with screwdriver,screw,clamp arm
+1118,774,2,67,inspect clamp,inspect,clamp
+1119,731,7,58,remove ladder,remove,ladder
+1120,1110,10,48,pass grill to other hand,pass,grill
+1121,1178,12,48,attempt to position grill,attempt to position,grill
+1122,1039,17,39,attempt to pick up water tank part,attempt to pick up,water tank part
+1123,888,6,39,screw water tank part with hand,screw,water tank part
+1124,935,3,58,rotate ladder,rotate,ladder
+1125,603,16,20,attempt to remove boom,attempt to remove,boom
+1126,1040,20,24,attempt to put down bucket,attempt to put down,bucket
+1127,521,6,49,screw strap with hand,screw,strap
+1128,981,3,49,rotate strap,rotate,strap
+1129,1179,22,49,attempt to screw strap,attempt to screw,strap
+1130,1270,17,50,attempt to pick up light,attempt to pick up,light
+1131,982,4,40,unscrew cylinder with hand,unscrew,cylinder
+1132,478,7,40,remove cylinder,remove,cylinder
+1133,1041,9,47,remove screw from roller arm,remove screw from,roller arm
+1134,461,2,37,inspect roller,inspect,roller
+1135,684,10,37,pass roller to other hand,pass,roller
+1136,1042,19,37,attempt to unscrew roller,attempt to unscrew,roller
+1137,685,8,37,position screw on roller,position screw on,roller
+1138,522,7,44,remove push frame,remove,push frame
+1139,1180,15,37,pull roller,pull,roller
+1140,1181,13,23,push arm connector,push,arm connector
+1141,889,16,44,attempt to remove push frame,attempt to remove,push frame
+1142,604,23,37,shake roller,shake,roller
+1143,1111,17,23,attempt to pick up arm connector,attempt to pick up,arm connector
+1144,1112,6,47,screw roller arm with hand,screw,roller arm
+1145,936,13,15,push rear body,push,rear body
+1146,1182,16,36,attempt to remove bulldozer arm,attempt to remove,bulldozer arm
+1147,1183,17,17,attempt to pick up diagram,attempt to pick up,diagram
+1148,891,15,7,pull roof,pull,roof
+1149,1043,4,28,unscrew turntable base with hand,unscrew,turntable base
+1150,890,12,32,attempt to position turntable top,attempt to position,turntable top
+1151,1184,19,16,attempt to unscrew dump bed,attempt to unscrew,dump bed
+1152,855,10,40,pass cylinder to other hand,pass,cylinder
+1153,523,8,40,position screw on cylinder,position screw on,cylinder
+1154,810,6,40,screw cylinder with hand,screw,cylinder
+1155,437,6,40,screw cylinder with screwdriver,screw,cylinder
+1156,1186,23,5,shake finished toy,shake,finished toy
+1157,1185,4,33,unscrew body with hand,unscrew,body
+1158,775,11,51,tilt up rear door,tilt up,rear door
+1159,707,14,51,tilt down rear door,tilt down,rear door
+1160,893,16,57,attempt to remove basket,attempt to remove,basket
+1161,1187,16,34,attempt to remove ladder basket,attempt to remove,ladder basket
+1162,1271,16,48,attempt to remove grill,attempt to remove,grill
+1163,1044,22,12,attempt to screw rear base,attempt to screw,rear base
+1164,892,8,58,position screw on ladder,position screw on,ladder
+1165,1113,4,58,unscrew ladder with screwdriver,unscrew,ladder
+1166,983,9,58,remove screw from ladder,remove screw from,ladder
+1167,1354,10,75,pass figurine to other hand,pass,figurine
+1168,984,13,16,push dump bed,push,dump bed
+1169,937,20,10,attempt to put down interior,attempt to put down,interior
+1170,1188,20,21,attempt to put down rear bumper,attempt to put down,rear bumper
+1171,732,22,13,attempt to screw arm,attempt to screw,arm
+1172,1189,10,61,pass sound module to other hand,pass,sound module
+1173,985,6,28,screw turntable base with hand,screw,turntable base
+1174,1272,3,61,rotate sound module,rotate,sound module
+1175,1273,12,62,attempt to position hook,attempt to position,hook
+1176,1114,16,42,attempt to remove side door,attempt to remove,side door
+1177,1115,13,42,push side door,push,side door
+1178,1190,13,70,push back seat,push,back seat
+1179,1274,8,77,position screw on dashboard,position screw on,dashboard
+1180,986,16,37,attempt to remove roller,attempt to remove,roller
+1181,1116,22,23,attempt to screw arm connector,attempt to screw,arm connector
+1182,1275,15,22,pull excavator arm,pull,excavator arm
+1183,987,12,61,attempt to position sound module,attempt to position,sound module
+1184,1045,20,12,attempt to put down rear base,attempt to put down,rear base
+1185,1191,13,48,push grill,push,grill
+1186,413,4,44,unscrew push frame with hand,unscrew,push frame
+1187,1192,20,44,attempt to put down push frame,attempt to put down,push frame
+1188,776,4,49,unscrew strap with hand,unscrew,strap
+1189,1193,17,49,attempt to pick up strap,attempt to pick up,strap
+1190,811,10,38,pass step to other hand,pass,step
+1191,524,5,44,position push frame,position,push frame
+1192,1276,16,85,attempt to remove battery,attempt to remove,battery
+1193,1277,11,15,tilt up rear body,tilt up,rear body
+1194,1194,6,33,screw body with hand,screw,body
+1195,1195,3,66,rotate spoiler,rotate,spoiler
+1196,1119,7,85,remove battery,remove,battery
+1197,1279,1,85,put down battery,put down,battery
+1198,1278,0,85,pick up battery,pick up,battery
+1199,1117,3,85,rotate battery,rotate,battery
+1200,1118,5,85,position battery,position,battery
+1201,1280,19,52,attempt to unscrew engine cover,attempt to unscrew,engine cover
+1202,1196,15,43,pull jackhammer arm,pull,jackhammer arm
+1203,1197,12,64,attempt to position jackhammer,attempt to position,jackhammer
+1204,1120,16,45,attempt to remove container,attempt to remove,container
+1205,1355,23,45,shake container,shake,container
+1206,1198,16,78,attempt to remove connector,attempt to remove,connector
+1207,1121,12,73,attempt to position container part,attempt to position,container part
+1208,1122,3,78,rotate connector,rotate,connector
+1209,1199,10,78,pass connector to other hand,pass,connector
+1210,1046,20,35,attempt to put down water tank,attempt to put down,water tank
+1211,1281,17,38,attempt to pick up step,attempt to pick up,step
+1212,733,6,12,screw rear base with hand,screw,rear base
+1213,988,19,26,attempt to unscrew track,attempt to unscrew,track
+1214,1123,6,26,screw track with screwdriver bit,screw,track
+1215,1124,7,67,remove clamp,remove,clamp
+1216,812,19,21,attempt to unscrew rear bumper,attempt to unscrew,rear bumper
+1217,1282,6,34,screw ladder basket with hand,screw,ladder basket
+1218,1125,6,58,screw ladder with hand,screw,ladder
+1219,989,19,30,attempt to unscrew transport cabin,attempt to unscrew,transport cabin
+1220,642,12,40,attempt to position cylinder,attempt to position,cylinder
+1221,1283,10,72,pass front base to other hand,pass,front base
+1222,1201,9,64,remove screw from jackhammer,remove screw from,jackhammer
+1223,1047,19,49,attempt to unscrew strap,attempt to unscrew,strap
+1224,1200,13,43,push jackhammer arm,push,jackhammer arm
+1225,1048,19,34,attempt to unscrew ladder basket,attempt to unscrew,ladder basket
+1226,1203,10,57,pass basket to other hand,pass,basket
+1227,1202,6,57,screw basket with hand,screw,basket
+1228,734,1,83,put down mixer part,put down,mixer part
+1229,1126,9,68,remove screw from tilter,remove screw from,tilter
+1230,708,0,83,pick up mixer part,pick up,mixer part
+1231,1284,12,83,attempt to position mixer part,attempt to position,mixer part
+1232,894,5,83,position mixer part,position,mixer part
+1233,1285,12,72,attempt to position front base,attempt to position,front base
+1234,1049,2,72,inspect front base,inspect,front base
+1235,1358,4,88,unscrew exhaust pipe with screwdriver,unscrew,exhaust pipe
+1236,1359,9,88,remove screw from exhaust pipe,remove screw from,exhaust pipe
+1237,1356,7,88,remove exhaust pipe,remove,exhaust pipe
+1238,1357,1,88,put down exhaust pipe,put down,exhaust pipe
+1239,1360,0,88,pick up exhaust pipe,pick up,exhaust pipe
+1240,1362,5,88,position exhaust pipe,position,exhaust pipe
+1241,1363,8,88,position screw on exhaust pipe,position screw on,exhaust pipe
+1242,1364,6,88,screw exhaust pipe with hand,screw,exhaust pipe
+1243,1361,6,88,screw exhaust pipe with screwdriver,screw,exhaust pipe
+1244,1288,5,76,position drill,position,drill
+1245,1289,7,41,remove screwdriver bit,remove,screwdriver bit
+1246,1290,20,19,attempt to put down nut,attempt to put down,nut
+1247,1287,6,52,screw engine cover with screwdriver bit,screw,engine cover
+1248,938,6,29,screw rear roof with screwdriver bit,screw,rear roof
+1249,1286,6,69,screw spare wheel with screwdriver bit,screw,spare wheel
+1250,990,7,83,remove mixer part,remove,mixer part
+1251,1291,10,83,pass mixer part to other hand,pass,mixer part
+1252,1292,23,36,shake bulldozer arm,shake,bulldozer arm
+1253,1204,17,30,attempt to pick up transport cabin,attempt to pick up,transport cabin
+1254,939,2,52,inspect engine cover,inspect,engine cover
+1255,1205,2,66,inspect spoiler,inspect,spoiler
+1256,1293,6,22,screw excavator arm with wrench,screw,excavator arm
+1257,813,12,31,attempt to position crane arm,attempt to position,crane arm
+1258,856,4,15,unscrew rear body with screwdriver bit,unscrew,rear body
+1259,1294,4,13,unscrew arm with screwdriver bit,unscrew,arm
+1260,1295,4,67,unscrew clamp with screwdriver bit,unscrew,clamp
+1261,991,4,20,unscrew boom with screwdriver bit,unscrew,boom
+1262,1208,4,32,unscrew turntable top with screwdriver bit,unscrew,turntable top
+1263,1298,7,87,remove turnplate,remove,turnplate
+1264,1367,0,87,pick up turnplate,pick up,turnplate
+1265,1297,5,87,position turnplate,position,turnplate
+1266,1365,8,87,position screw on turnplate,position screw on,turnplate
+1267,1296,6,87,screw turnplate with hand,screw,turnplate
+1268,1366,9,87,remove screw from turnplate,remove screw from,turnplate
+1269,1206,6,32,screw turntable top with screwdriver bit,screw,turntable top
+1270,1207,22,20,attempt to screw boom,attempt to screw,boom
+1271,1209,6,15,screw rear body with screwdriver bit,screw,rear body
+1272,1127,6,19,screw nut with screwdriver bit,screw,nut
+1273,1128,6,20,screw boom with screwdriver bit,screw,boom
+1274,992,6,62,screw hook with screwdriver,screw,hook
+1275,1299,15,62,pull hook,pull,hook
+1276,940,4,11,unscrew fourth wheel with wrench,unscrew,fourth wheel
+1277,1369,4,62,unscrew hook with wrench,unscrew,hook
+1278,1129,4,20,unscrew boom with wrench,unscrew,boom
+1279,1368,4,28,unscrew turntable base with wrench,unscrew,turntable base
+1280,1130,6,6,screw first wheel with wrench,screw,first wheel
+1281,1300,12,68,attempt to position tilter,attempt to position,tilter
+1282,1050,13,52,push engine cover,push,engine cover
+1283,777,12,52,attempt to position engine cover,attempt to position,engine cover
+1284,1131,17,59,attempt to pick up rocker panel,attempt to pick up,rocker panel
+1285,1301,15,59,pull rocker panel,pull,rocker panel
+1286,1303,4,55,unscrew lid with hand,unscrew,lid
+1287,1302,13,55,push lid,push,lid
+1288,1304,6,19,screw nut with wrench,screw,nut
+1289,895,12,43,attempt to position jackhammer arm,attempt to position,jackhammer arm
+1290,1370,23,43,shake jackhammer arm,shake,jackhammer arm
+1291,993,16,55,attempt to remove lid,attempt to remove,lid
+1292,1305,15,42,pull side door,pull,side door
+1293,1210,3,70,rotate back seat,rotate,back seat
+1294,1371,4,31,unscrew crane arm with hand,unscrew,crane arm
+1295,1306,4,62,unscrew hook with hand,unscrew,hook
+1296,941,2,40,inspect cylinder,inspect,cylinder
+1297,1372,4,58,unscrew ladder with hand,unscrew,ladder
+1298,1211,23,31,shake crane arm,shake,crane arm
+1299,994,11,29,tilt up rear roof,tilt up,rear roof
+1300,1132,14,29,tilt down rear roof,tilt down,rear roof
+1301,1133,10,56,pass chassis part to other hand,pass,chassis part
+1302,1134,6,56,screw chassis part with hand,screw,chassis part
+1303,995,2,44,inspect push frame,inspect,push frame
+1304,1051,12,37,attempt to position roller,attempt to position,roller
+1305,1212,22,28,attempt to screw turntable base,attempt to screw,turntable base
+1306,1307,13,28,push turntable base,push,turntable base
+1307,1135,8,72,position screw on front base,position screw on,front base
+1308,1308,10,46,pass mixer stand to other hand,pass,mixer stand
+1309,942,2,78,inspect connector,inspect,connector
+1310,996,3,40,rotate cylinder,rotate,cylinder
+1311,1309,17,35,attempt to pick up water tank,attempt to pick up,water tank
+1312,1310,19,33,attempt to unscrew body,attempt to unscrew,body
+1313,1311,13,33,push body,push,body
+1314,1213,22,33,attempt to screw body,attempt to screw,body
+1315,1373,4,43,unscrew jackhammer arm with hand,unscrew,jackhammer arm
+1316,896,22,22,attempt to screw excavator arm,attempt to screw,excavator arm
+1317,1312,23,22,shake excavator arm,shake,excavator arm
+1318,1214,21,26,spin track,spin,track
+1319,1215,13,40,push cylinder,push,cylinder
+1320,1313,17,40,attempt to pick up cylinder,attempt to pick up,cylinder
+1321,1136,22,40,attempt to screw cylinder,attempt to screw,cylinder
+1322,1216,9,56,remove screw from chassis part,remove screw from,chassis part
+1323,1217,7,89,remove roller part,remove,roller part
+1324,1317,13,44,push push frame,push,push frame
+1325,1315,0,89,pick up roller part,pick up,roller part
+1326,1316,5,89,position roller part,position,roller part
+1327,1314,2,89,inspect roller part,inspect,roller part
+1328,1218,23,13,shake arm,shake,arm
+1329,1374,23,47,shake roller arm,shake,roller arm
+1330,1219,19,36,attempt to unscrew bulldozer arm,attempt to unscrew,bulldozer arm
+1331,1319,17,24,attempt to pick up bucket,attempt to pick up,bucket
+1332,1318,23,25,shake front body,shake,front body
+1333,1220,16,38,attempt to remove step,attempt to remove,step
+1334,1052,3,72,rotate front base,rotate,front base
+1335,1320,4,77,unscrew dashboard with screwdriver,unscrew,dashboard
+1336,1137,12,44,attempt to position push frame,attempt to position,push frame
+1337,1221,22,44,attempt to screw push frame,attempt to screw,push frame
+1338,997,13,25,push front body,push,front body
+1339,1375,11,46,tilt up mixer stand,tilt up,mixer stand
+1340,1321,20,30,attempt to put down transport cabin,attempt to put down,transport cabin
+1341,1323,19,19,attempt to unscrew nut,attempt to unscrew,nut
+1342,1324,4,54,unscrew clamp arm with screwdriver bit,unscrew,clamp arm
+1343,1322,3,87,rotate turnplate,rotate,turnplate
+1344,1376,6,67,screw clamp with screwdriver bit,screw,clamp
+1345,1222,16,43,attempt to remove jackhammer arm,attempt to remove,jackhammer arm
+1346,1327,4,63,unscrew fifth wheel with screwdriver bit,unscrew,fifth wheel
+1347,1328,4,71,unscrew sixth wheel with screwdriver bit,unscrew,sixth wheel
+1348,1053,7,78,remove connector,remove,connector
+1349,1054,1,78,put down connector,put down,connector
+1350,1377,4,45,unscrew container with hand,unscrew,container
+1351,943,7,80,remove cabin back,remove,cabin back
+1352,897,1,80,put down cabin back,put down,cabin back
+1353,1325,13,45,push container,push,container
+1354,1326,6,82,screw windshield with screwdriver,screw,windshield
+1355,778,0,80,pick up cabin back,pick up,cabin back
+1356,643,5,80,position cabin back,position,cabin back
+1357,1330,6,63,screw fifth wheel with screwdriver bit,screw,fifth wheel
+1358,1329,6,71,screw sixth wheel with screwdriver bit,screw,sixth wheel
+1359,1331,20,26,attempt to put down track,attempt to put down,track
+1360,1223,10,77,pass dashboard to other hand,pass,dashboard
+1361,1332,12,70,attempt to position back seat,attempt to position,back seat
+1362,1138,3,77,rotate dashboard,rotate,dashboard
+1363,898,4,26,unscrew track with screwdriver bit,unscrew,track
+1364,1378,6,45,screw container with hand,screw,container
+1365,1333,20,51,attempt to put down rear door,attempt to put down,rear door
+1366,1055,12,49,attempt to position strap,attempt to position,strap
+1367,1334,13,49,push strap,push,strap
+1368,1335,17,42,attempt to pick up side door,attempt to pick up,side door
+1369,1056,6,12,screw rear base with screwdriver bit,screw,rear base
+1370,1224,4,12,unscrew rear base with screwdriver bit,unscrew,rear base
+1371,1337,3,80,rotate cabin back,rotate,cabin back
+1372,1336,6,3,screw cabin with screwdriver bit,screw,cabin
+1373,1338,2,68,inspect tilter,inspect,tilter
+1374,1339,10,80,pass cabin back to other hand,pass,cabin back
+1375,1340,4,82,unscrew windshield with screwdriver,unscrew,windshield
+1376,1341,12,78,attempt to position connector,attempt to position,connector
+1377,1342,22,53,attempt to screw mixer,attempt to screw,mixer
+1378,1379,23,53,shake mixer,shake,mixer
+1379,1343,15,46,pull mixer stand,pull,mixer stand
