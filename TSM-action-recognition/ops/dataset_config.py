@@ -8,7 +8,12 @@ def return_Assembly101(modality, evaluation_file):
     filename_categories = f'{path_to_data}/category.txt'
     
     # path to frames
-    root_data = '/mnt/ssd/fbnus/Assembly101/frames/'
+    # please update root_data with the path where you saved the frames
+    root_data = 'Assembly101/frames/'
+
+    if not os.path.exists(root_data):
+        print('Please update root_data with the path where you saved the frames.')
+        raise ValueError(f'Path to frame [{root_data}] does not exist!')
     
     if evaluation_file:
         modality = evaluation_file.split('_')[-1][:-4]
