@@ -72,7 +72,7 @@ The code outputs the evaluation set (validation/test) predictions in the form of
 | preds.npy | fine-grained action predictions (numeric labels) per segment following the same order as in the .txt file. The labels follow the action index convention as present in the [data/category.txt](data/category.txt) |
 | scores.npy | fine-grained action prediction scores per segment following the same order as in the .txt. The per-segment scores are 1380-dim vectors corresponding to the 1380 fine-grained action classes. |
 
-**As mentioned previously, we hold the ground truth test labels for a challenge we are organizing. Therefore, to measure the test set accuracy, please submit your test predictions to our challenge website (coming soon).**
+**We withhold the ground truth test labels for a our [3D Action Recognition challenge](https://codalab.lisn.upsaclay.fr/competitions/5256) on Codalab. Please submit to the challenge to generate action recognition accuracy on the test set.**
 
 For further infomation regarding training/validation/testing, kindly check the original [TSM repository](https://github.com/mit-han-lab/temporal-shift-module#testing).
 
